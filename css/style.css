@@ -11,7 +11,10 @@ body{
 }
  
 h2{
-	font-family: sans-serif;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
 }
  
 p{
@@ -22,5 +25,3 @@ h1{
 	font-family: 'Noto Sans TC', sans-serif;
 	}
 	
-	tubuh { font-family : 'Tangerine' , serif ; ukuran font : 48px ; text-shadow : 4px 4px 4px #aaa ; }
-   
