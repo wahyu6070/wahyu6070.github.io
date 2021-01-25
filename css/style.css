@@ -10,7 +10,7 @@ body{
 	width: 1150px;
 }
  
-h2{
+h1{
   font-family: 'Tangerine', serif;
   font-size: 48px;
   text-shadow: 4px 4px 4px #aaa;
@@ -21,7 +21,4 @@ p{
 	font-family: gevena;
 }
 
-h1{
-	font-family: 'Noto Sans TC', sans-serif;
-	}
 	
