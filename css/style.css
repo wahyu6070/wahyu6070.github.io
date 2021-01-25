@@ -1,3 +1,19 @@
-body {
-    background-color: #00FFFF
+body{
+	background: #00FFFF;
+	font-family: roboto;
+	text-align: center;
+	color: #fff;
+}
+ 
+.ketengah{
+	margin: 10px auto;
+	width: 1150px;
+}
+ 
+h2{
+	font-family: sans-serif;
+}
+ 
+p{
+	font-family: courier;
 }
