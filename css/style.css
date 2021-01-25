@@ -2,7 +2,7 @@ body{
 	background: #00FFFF;
 	font-family: roboto;
 	text-align: center;
-	color: #fff;
+	<!-- color: #fff -->
 }
  
 .ketengah{
@@ -17,3 +17,10 @@ h2{
 p{
 	font-family: courier;
 }
+
+h1{
+	font-family: 'Noto Sans TC', sans-serif;
+	}
+	
+	tubuh { font-family : 'Tangerine' , serif ; ukuran font : 48px ; text-shadow : 4px 4px 4px #aaa ; }
+   
