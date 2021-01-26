@@ -1,9 +1,11 @@
 body{
+	background-image: url("images/backgroud2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 	background: #00FFFF;
 	font-family: roboto;
 	text-align: center;
 	<!-- color: #fff -->
-	background-image: url("images/backgroud2.png");
 }
  
 .ketengah{
