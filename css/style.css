@@ -7,6 +7,9 @@ body{
 	text-align: center;
 	<!-- color: #fff -->
 }
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+</style>
  
 .ketengah{
 	margin: 10px auto;
@@ -28,6 +31,10 @@ p{
 	height: 250px;
 	width: 250px;
 }
-
+.samping{
+	font-family: 'Yusei Magic', sans-serif;
+	text-align: left;
+	}
+	
 
 	
