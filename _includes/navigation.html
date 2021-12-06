@@ -1,8 +1,34 @@
-<nav>
-  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
-    Home
-  </a>
-  <a href="/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
-    About
-  </a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+  <a class="navbar-brand" href="#">
+      <img src="/pages/images/new_i.png" alt="" width="80" height="70">
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a 
+          {% if page.url == "/" %} class="nav-link active" aria-current="page" 
+          {% else %} <a class="nav-link"
+          {% endif %}
+          href="/index.html">
+          Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/download.html">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/documentation.html">Project</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about.html">Documentation</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/forum.html">Sosial Media</a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>
