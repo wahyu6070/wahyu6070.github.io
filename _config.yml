@@ -33,7 +33,10 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-
+#custom
+google:
+  tag_manager:
+    container_id: GTM-WM8JQ5X
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
