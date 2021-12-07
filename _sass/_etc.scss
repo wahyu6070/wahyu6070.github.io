@@ -13,8 +13,13 @@
     right:50px;
     top:50px;
   }
-.img-profile{
-	width: 80;
-	height: 70;
-	}
+  
+.circular-image {
+     width: 80px;
+     height: 80px;
+     border-radius: 50%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
 	
