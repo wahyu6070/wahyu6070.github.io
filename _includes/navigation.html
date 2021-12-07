@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-  <a class="navbar-brand" href="#">
-      <div class="text-icon">Wahyu6070</div>
-    </a>
+    <a class="navbar-brand" href="#">
+    <div class="text-icon">Wahyu6070</div>
+      </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -18,10 +18,10 @@
         </li>
         <li class="nav-item">
           <a 
-          {% if page.url == "/blog.html" %} class="nav-link active" aria-current="page" 
+          {% if page.url == "/blog/" %} class="nav-link active" aria-current="page" 
           {% else %} <a class="nav-link"
           {% endif %}
-          href="/blog.html">
+          href="/blog">
           Blog</a>
         </li>
         <li class="nav-item">
@@ -31,7 +31,12 @@
           <a class="nav-link" href="/about.html">Documentation</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/forum.html">Sosial Media</a>
+          <a 
+          {% if page.url == "/about/" %} class="nav-link active" aria-current="page" 
+          {% else %} <a class="nav-link"
+          {% endif %}
+          href="/about">
+          About</a>
         </li>
       </ul>
     </div>
