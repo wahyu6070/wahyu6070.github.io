@@ -33,7 +33,3 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-#custom
-google:
-  tag_manager:
-    container_id: GTM-WM8JQ5X

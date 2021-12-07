@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-  {% gtm head %}
+  {% include google_tag_manager_head.html %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
 	</head>
 
 <body>
-{% gtm body %}
+{% include google_tag_manager_body.html %}
 {% include navigation.html %}
 {{ content }}
 {% include footer.html %}
