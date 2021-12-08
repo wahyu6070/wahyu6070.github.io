@@ -1,12 +1,4 @@
 
-.Header-logo {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-	align: center;
-	height: 150px;
-	width: 150px;
-}
 body {
   background-color: #fff;
   color: #3e4042;
@@ -267,12 +259,8 @@ div#playground {
   margin: 0;
   text-align: left;
 	}
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,600&display=swap');
-.text-special {
-	background-color: #fff;
-	color: #1e90ff;
-	line-height: 1.3;
-	margin: 0;
-	text-align: center;
-	font-family: 'Roboto Mono', monospace;
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Mali:wght@600&display=swap');
+p {
+	font-family: 'Italianno', cursive;
+	font-family: 'Mali', cursive;
 	}
