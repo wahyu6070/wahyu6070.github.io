@@ -67,7 +67,6 @@ GEM
 
 PLATFORMS
   aarch64-linux
-  ruby
 
 DEPENDENCIES
   jekyll (~> 4.2.1)
@@ -78,4 +77,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.2.32
+   2.2.33
