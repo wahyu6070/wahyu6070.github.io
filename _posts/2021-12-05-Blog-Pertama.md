@@ -5,10 +5,11 @@ date:   2021-11-07 11:02:07 +0100
 lang: id
 categories: personal
 ---
-
+<div class="MID">
 <a href="https://m.gsmarena.com/nokia_6070-1433.php">
 <img class="gambar" src="/assets/img/blog/nokia6070.png" style="width:130px;height:150px;" align="top">
 </a>
+</div>
 
 <p>wahyu6070 comes from my first name and my first cell phone type.</p>
 <p>wahyu = first name </p>
