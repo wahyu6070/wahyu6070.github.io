@@ -9,12 +9,11 @@ categories: blog
 
 <h2>1. Buka link</h2>
 <p>Maka akan muncul seperti dibawah</p>
-<div><a href="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg"><img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg" alt="icon sosmed svg" class="IMAGE"></img></a></div>
+<img class="IMAGE" src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg" style="width:90px;height:120px;" align="top">
 <p>Pilih yang lingkarin berwarna hijau</p>
 <h2>2. Download</h2>
 <p>Tunggu 5 detik seperti gambar dibawah</p>
-<img class="IMAGE" src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png" style="width:130px;height:150px;" align="top">
-[![Downloads](https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png)
+<img class="IMAGE" src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png" style="width:90px;height:120px;" align="top">
 <p>Lalu akan otomatis mendownload</p>
 <p>Catatan : Jika tidak otomatis mendownload pilih Try to download</p>
 
