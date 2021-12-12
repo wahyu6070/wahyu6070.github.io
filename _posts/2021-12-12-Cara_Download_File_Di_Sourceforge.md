@@ -9,7 +9,7 @@ categories: blog
 
 <h2>1. Buka link</h2>
 <p>Maka akan muncul seperti dibawah</p>
-[![Downloads](https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg)
+<div><a href="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg"><img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg" alt="icon sosmed svg" class="IMAGE"></img></a></div>
 <p>Pilih yang lingkarin berwarna hijau</p>
 <h2>2. Download</h2>
 <p>Tunggu 5 detik seperti gambar dibawah</p>
