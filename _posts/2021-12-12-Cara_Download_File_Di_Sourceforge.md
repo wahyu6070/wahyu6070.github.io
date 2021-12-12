@@ -9,11 +9,11 @@ categories: blog
 
 <h2>1. Buka link</h2>
 <p>Maka akan muncul seperti dibawah</p>
-<img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/20211212_175538.jpg" class="img-fluid" alt="...">
+<img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/1639308909672.png" class="img-fluid" alt="...">
 <p>Pilih yang lingkarin berwarna hijau</p>
 <h2>2. Download</h2>
 <p>Tunggu 5 detik seperti gambar dibawah</p>
-<img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png" class="img-fluid" alt="...">
+<img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/1639308909672.png" class="img-fluid" alt="...">
 <p>Lalu akan otomatis mendownload</p>
 <p>Catatan : Jika tidak otomatis mendownload pilih Try to download</p>
 
