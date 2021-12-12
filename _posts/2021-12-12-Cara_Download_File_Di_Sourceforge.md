@@ -13,6 +13,7 @@ categories: blog
 <p>Pilih yang lingkarin berwarna hijau</p>
 <h2>2. Download</h2>
 <p>Tunggu 5 detik seperti gambar dibawah</p>
+<img class="gambar" src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png" style="width:130px;height:150px;" align="top">
 [![Downloads](https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/Screenshot_20211212-174552_Chrome.png)
 <p>Lalu akan otomatis mendownload</p>
 <p>Catatan : Jika tidak otomatis mendownload pilih Try to download</p>
