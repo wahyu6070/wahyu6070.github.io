@@ -47,14 +47,19 @@ categories: Android
   
 [Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
   Android 10.0
+   
 [Firmware 424](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-424-X00T.zip/download)
   Android 10.0
+   
 [Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
   Android 10.0
+   
 [Firmware 429](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-429-X00T.zip/download)
   Android 10.0
+   
 [Firmware 432](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
   Android 10.0 (final)
+   
   
 <h2>How to install</h2>
 <p>Install in custom recovery</p>
