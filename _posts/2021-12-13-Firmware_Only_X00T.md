@@ -57,7 +57,7 @@ categories: Android
 [Firmware 429](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-429-X00T.zip/download)
   Android 10.0
    
-[Firmware 432](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
+[Firmware 432](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-432-X00T.zip/download)
   Android 10.0 (final)
    
   
