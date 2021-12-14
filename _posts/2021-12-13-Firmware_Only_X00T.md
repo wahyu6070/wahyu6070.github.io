@@ -34,7 +34,7 @@ categories: Android
   Android 9.0
    
 [Firmware 063](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-063-X00T.zip/download)
-  Android 9.0 Final (Recomended)
+  Android 9.0 (Recomended)
    
 [Firmware 082](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-082-X00T.zip/download)
   Android 9.0
@@ -63,7 +63,7 @@ categories: Android
   
 <h2>How to install</h2>
 <p>Install in custom recovery</p>
-<h2> Notes </p>
+<h2> Notes </h2>
 - this is not rom
 - it will not wipe your internal memory
 - if you want to install lineage 15.1 use firmware 340
