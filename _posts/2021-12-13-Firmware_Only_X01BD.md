@@ -36,7 +36,8 @@ categories: Android
   Android 9.0
      
  [Firmware 428](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-428-X01BD.zip/download)
-  Android 10.0 (final)
+  Android 10.0
+  <p>Firmware 438</p>
     
 <h2>How to install</h2>
 <p>Install in custom recovery</p>
