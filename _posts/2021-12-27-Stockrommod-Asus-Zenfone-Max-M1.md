@@ -8,59 +8,30 @@ categories: Android
 
 
 <h2>Download</h2>
-[Firmware 247](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-247-X00T.zip/download)
- Android 8.1
-  
-[Firmware 318](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-318-X00T.zip/download)
-  Android 8.1
-   
-  
-[Firmware 340](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-340-X00T.zip/download)
-  Android 8.1
-   
-[Firmware 053](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-053-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 055](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-055-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 058](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-058-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 060](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-060-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 061](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-061-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 063](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-063-X00T.zip/download)
-  Android 9.0 (Recomended)
-   
-[Firmware 082](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-082-X00T.zip/download)
-  Android 9.0
-     
- [Firmware 084](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-084-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 087](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-087-X00T.zip/download)
-  Android 9.0 (final)
-  
-[Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 424](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-424-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 429](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-429-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 432](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-432-X00T.zip/download)
-  Android 10.0 (final)
-   
-  
+<div class="container-fluid">
+<h2> LiteGapps arm64</h2>
+<p>Difference lite,core,user,go,basic,nano,micro,pixel : <a href="https://litegapps.github.io/pages/litegapps_varian.html">here</a></p>
+  <div class="table-responsive">
+  <table class="table">
+    <thead>
+    <tr>
+      <th scope="col">Version</th>
+      <th scope="col">Av</th>
+      <th scope="col">Dm-verity</th>
+      <th scope="col">Version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">5.0</th>
+      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps/arm64/21"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><img src="pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td>2.2</td> 
+    </tr>
+    </table>
+    </div>
+</div>
+</div>
 <h2>How to install</h2>
 <p>Install in custom recovery</p>
 <h2> Notes </h2>
