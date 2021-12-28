@@ -8,25 +8,34 @@ categories: Android
 
 
 <h2>Download</h2>
-<div class="container-fluid">
-<h2> LiteGapps arm64</h2>
-<p>Difference lite,core,user,go,basic,nano,micro,pixel : <a href="https://litegapps.github.io/pages/litegapps_varian.html">here</a></p>
-  <div class="table-responsive">
+<div class="table-responsive">
   <table class="table">
     <thead>
     <tr>
-      <th scope="col">Version</th>
-      <th scope="col">Av</th>
-      <th scope="col">Dm-verity</th>
-      <th scope="col">Version</th>
+      <th scope="col">Variant</th>
+      <th scope="col">Link</th>
+      <th scope="col">Architeture</th>
+      <th scope="col">Android</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">5.0</th>
-      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps/arm64/21"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td><img src="pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-      <td>2.2</td> 
+      <th scope="row">Reguler</th>
+      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><p>arm64</p></td>
+      <td><p>8.1 - 12.0</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="/pages/lts.html">LTS</a></th>
+      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/LTS/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><p>arm32,arm64</p></td>
+      <td><p>5.0 - 12.0</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://microg.org/">MicroG</a></th>
+      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/microg/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><p>arm32,arm64</p></td>
+      <td><p>5.0 - 12.0</td>
     </tr>
     </table>
     </div>
