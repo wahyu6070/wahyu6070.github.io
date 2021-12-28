@@ -20,14 +20,63 @@ categories: Android
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope="row">377</th>
+  <tr>
+    <th scope="row">377</th>
       <td>8.1</td> 
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+   </tr>
+  <tr>
+      <th scope="row">340</th>
+      <td>8.1</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/340-STOCKROM-MOD-X00T-2019-10-28.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
     </tr>
-    </tbody>
+  <tr>
+      <th scope="row">053</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/053-STOCKROM-MOD-X00T-2019-11-11.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  <tr>
+      <th scope="row">055</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/055-STOCKROM-MOD-X00T-2019-11-23.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  <tr>
+      <th scope="row">058</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/058-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  <tr>
+      <th scope="row">059</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/059-STOCKROM-MOD-X00T-2019-11-16.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  <tr>
+      <th scope="row">060</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/060-STOCKROM-MOD-X00T-2020-02-03.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  <tr>
+      <th scope="row">061</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/061-STOCKROM-MOD-X00T-2020-04-01.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+  </tr>
+  </tbody>
   </table>
 </div>
 
