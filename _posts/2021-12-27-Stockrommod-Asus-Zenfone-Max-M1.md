@@ -12,19 +12,19 @@ categories: Android
   <table class="table">
     <thead>
     <tr>
-      <th scope="col">AV</th>
-      <th scope="col">Gapps</th>
-      <th scope="col">Addon</th>
       <th scope="col">Version</th>
-      <th scope="col">Sdk</th>
+      <th scope="col">Android</th>
+      <th scope="col">Link</th>
+      <th scope="col">Dm-verity</th>
+      <th scope="col">Video Review</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">5.0</th>
-      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps/arm/21"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td><img src="pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-      <td>2.2</td>
+      <th scope="row">377</th>
+      <td>8.1</td>
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/download.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
       <td>21</td>
     </tr>
     </tbody>
