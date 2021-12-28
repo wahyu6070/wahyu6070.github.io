@@ -12,36 +12,25 @@ categories: Android
   <table class="table">
     <thead>
     <tr>
-      <th scope="col">Variant</th>
-      <th scope="col">Link</th>
-      <th scope="col">Architeture</th>
-      <th scope="col">Android</th>
+      <th scope="col">AV</th>
+      <th scope="col">Gapps</th>
+      <th scope="col">Addon</th>
+      <th scope="col">Version</th>
+      <th scope="col">Sdk</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">Reguler</th>
-      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td><p>arm64</p></td>
-      <td><p>8.1 - 12.0</td>
+      <th scope="row">5.0</th>
+      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps/arm/21"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><img src="pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td>2.2</td>
+      <td>21</td>
     </tr>
-    <tr>
-      <th scope="row"><a href="/pages/lts.html">LTS</a></th>
-      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/LTS/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td><p>arm32,arm64</p></td>
-      <td><p>5.0 - 12.0</td>
-    </tr>
-    <tr>
-      <th scope="row"><a href="https://microg.org/">MicroG</a></th>
-      <td><a href="https://sourceforge.net/projects/litegapps/files/litegapps++/microg/"><img src="pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td><p>arm32,arm64</p></td>
-      <td><p>5.0 - 12.0</td>
-    </tr>
-    </div>
     </tbody>
-    </table>
+  </table>
 </div>
-</div>
+
 <h2>How to install</h2>
 <p>Install in custom recovery</p>
 <h2> Notes </h2>
