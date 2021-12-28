@@ -39,6 +39,7 @@ categories: Android
     </tr>
     </table>
     </div>
+    </tbody>
 </div>
 </div>
 <h2>How to install</h2>
