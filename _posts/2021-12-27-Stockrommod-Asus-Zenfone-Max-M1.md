@@ -22,10 +22,10 @@ categories: Android
   <tbody>
     <tr>
       <th scope="row">377</th>
-      <td>8.1</td>
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/download.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>8.1</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
-      <td>21</td>
+      <td><td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td></td>
     </tr>
     </tbody>
   </table>
