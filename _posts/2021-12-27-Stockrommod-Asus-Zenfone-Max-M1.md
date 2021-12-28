@@ -37,9 +37,9 @@ categories: Android
       <td><p>arm32,arm64</p></td>
       <td><p>5.0 - 12.0</td>
     </tr>
-    </table>
     </div>
     </tbody>
+    </table>
 </div>
 </div>
 <h2>How to install</h2>
