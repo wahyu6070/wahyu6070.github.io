@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StockromMod Asus Zenfone Max Pro M1 (X00T)"
-date:   2022-01-06 17:32:07 +0100
+date:   2022-01-05 17:32:07 +0100
 lang: en
 categories: Android
 ---
