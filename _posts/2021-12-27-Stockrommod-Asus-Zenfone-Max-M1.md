@@ -25,7 +25,8 @@ categories: Android
       <td>8.1</td> 
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Encrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td><a href="https://youtu.be/PlzuWTRM6z4">Youtube</a>
+      </td>
    </tr>
   <tr>
       <th scope="row">340</th>
@@ -110,12 +111,12 @@ categories: Android
 
 <h2>How to install</h2>
 <p>1. wipe data,cache,system,vendor</p>
-<p>2. install stockrommod </p>
+<p>2. install stockrommod</p>
 <p>3. reboot </p>
 <h3>for stockrommod 337,340 (oreo)</h3>
 <p>1. wipe data,cache,system,vendor</p>
 <p>2. install <a href="https://androidfilehost.com/?fid=2188818919693780522">decrypt</a></p>
-<p>3. install <a href="https://github.com/topjohnwu/Magisk/releases/tag/v20.4">magism</a></p>
+<p>3. install <a href="https://github.com/topjohnwu/Magisk/releases/tag/v20.4">magisk</a></p>
 <p>4. reboot </p>
 <h2> Notes </h2>
 - this is not rom
