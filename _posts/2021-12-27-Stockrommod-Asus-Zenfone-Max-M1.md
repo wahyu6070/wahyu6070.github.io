@@ -109,7 +109,14 @@ categories: Android
 </div>
 
 <h2>How to install</h2>
-<p>Install in custom recovery</p>
+<p>1. wipe data,cache,system,vendor</p>
+<p>2. install stockrommod </p>
+<p>3. reboot </p>
+<h3>for stockrommod 337,340 (oreo)</h3>
+<p>1. wipe data,cache,system,vendor</p>
+<p>2. install <a href="https://androidfilehost.com/?fid=2188818919693780522">decrypt</a></p>
+<p>3. install <a href="https://github.com/topjohnwu/Magisk/releases/tag/v20.4">magism</a></p>
+<p>4. reboot </p>
 <h2> Notes </h2>
 - this is not rom
 - it will not wipe your internal memory
