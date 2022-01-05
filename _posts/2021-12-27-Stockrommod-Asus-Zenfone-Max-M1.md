@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "StockromMod Asus Zenfone Max Pro M1 (X00T)"
-date:   2021-12-27 17:32:07 +0100
+date:   2022-01-06 17:32:07 +0100
 lang: en
 categories: Android
 ---
@@ -26,7 +26,7 @@ categories: Android
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Encrypt</td>
       <td><a href="https://youtu.be/PlzuWTRM6z4">Youtube</a>
-      </td>
+      </td> 
    </tr>
   <tr>
       <th scope="row">340</th>
@@ -47,7 +47,8 @@ categories: Android
       <td>9.0</td> 
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/055-STOCKROM-MOD-X00T-2019-11-23.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td><a href="https://youtu.be/KLPFMDlE0Wo">Youtube</a>
+      </td> 
   </tr>
   <tr>
       <th scope="row">058</th>
@@ -61,7 +62,8 @@ categories: Android
       <td>9.0</td> 
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/059-STOCKROM-MOD-X00T-2019-11-16.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td><a href="https://youtu.be/0gbVTGscobg">Youtube</a>
+      </td>  
   </tr>
   <tr>
       <th scope="row">060</th>
@@ -103,7 +105,8 @@ categories: Android
       <td>9.0</td> 
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/087-STOCKROM-MOD-X00T-2021-05-18.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
+      <td><a href="https://youtu.be/sflz-oocKFQ">Youtube</a>
+      </td>   
   </tr>  
   </tbody>
   </table>
@@ -119,6 +122,5 @@ categories: Android
 <p>3. install <a href="https://github.com/topjohnwu/Magisk/releases/tag/v20.4">magisk</a></p>
 <p>4. reboot </p>
 <h2> Notes </h2>
-- this is not rom
-- it will not wipe your internal memory
-- if you want to install lineage 15.1 use firmware 340
+- it doesn't wipe your internal memory
+ 
