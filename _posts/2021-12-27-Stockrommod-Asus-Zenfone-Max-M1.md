@@ -124,4 +124,6 @@ categories: Android
 <p>4. reboot </p>
 <h2> Notes </h2>
 - it doesn't wipe your internal memory
- 
+<h2>Discussion </h2>
+<p><a href="https://forum.xda-developers.com/t/rom-mod-stockrom-mod-asus-zenfone-max-pro-m1.3999371/">Xda</a></p>
+<p><a href="https://t.me/stockrommod/">Telegram</a></p>

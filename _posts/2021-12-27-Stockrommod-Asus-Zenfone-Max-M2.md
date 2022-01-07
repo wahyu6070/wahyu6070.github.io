@@ -21,93 +21,34 @@ categories: Android
   </thead>
   <tbody>
   <tr>
-    <th scope="row">337</th>
-      <td>8.1</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/337-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Encrypt</td>
-      <td><a href="https://youtu.be/PlzuWTRM6z4">Youtube</a>
+    <th scope="row">071</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/071-STOCKROM-MOD-X01BD-2019-12-01.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td> 
+      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
       </td> 
    </tr>
   <tr>
-      <th scope="row">340</th>
-      <td>8.1</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/340-STOCKROM-MOD-X00T-2019-10-28.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Encrypt</td>
+      <th scope="row">072</th>
+      <td>9.0</td> 
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/072-STOCKROM-MOD-XO1BD-2019-12-29.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td>Predecrypt</td>
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
     </tr>
   <tr>
-      <th scope="row">053</th>
+      <th scope="row">073</th>
       <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/053-STOCKROM-MOD-X00T-2019-11-11.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/073-STOCKROM-MOD-X01BD-2020-04-01.zip/download "><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
   </tr>
   <tr>
-      <th scope="row">055</th>
+      <th scope="row">094</th>
       <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/055-STOCKROM-MOD-X00T-2019-11-23.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><a href="https://youtu.be/wC-OEotON5Y ">Youtube</a>
-      </td> 
-  </tr>
-  <tr>
-      <th scope="row">058</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/058-STOCKROM-MOD-X00T-2019-10-19.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><a href="https://youtu.be/KLPFMDlE0Wo ">Youtube</a>
-      </td>   
-  </tr>
-  <tr>
-      <th scope="row">059</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/059-STOCKROM-MOD-X00T-2019-11-16.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><a href="https://youtu.be/0gbVTGscobg">Youtube</a>
-      </td>  
-  </tr>
-  <tr>
-      <th scope="row">060</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/060-STOCKROM-MOD-X00T-2020-02-03.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
+      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/094-STOCKROM-MOD-X01BD-2020-08-05.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-  </tr>
-  <tr>
-      <th scope="row">061</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/061-STOCKROM-MOD-X00T-2020-04-01.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-  </tr>
-  <tr>
-      <th scope="row">063</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/063-STOCKROM-MOD-X00T-2020-05-02.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-  </tr>
-  <tr>
-      <th scope="row">082</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/082-STOCKROM-MOD-X00T-2020-07-16.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-  </tr>
-  <tr>
-      <th scope="row">084</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/084-STOCKROM-MOD-X00T-2020-08-03.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-  </tr>
-  <tr>
-      <th scope="row">087</th>
-      <td>9.0</td> 
-      <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/087-STOCKROM-MOD-X00T-2021-05-18.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
-      <td>Predecrypt</td>
-      <td><a href="https://youtu.be/sflz-oocKFQ">Youtube</a>
-      </td>   
+      </td>
   </tr>  
   </tbody>
   </table>
@@ -117,11 +58,8 @@ categories: Android
 <p>1. wipe data,cache,system,vendor</p>
 <p>2. install stockrommod</p>
 <p>3. reboot </p>
-<h3>for stockrommod 337,340 (oreo)</h3>
-<p>1. wipe data,cache,system,vendor</p>
-<p>2. install <a href="https://androidfilehost.com/?fid=2188818919693780522">decrypt</a></p>
-<p>3. install <a href="https://github.com/topjohnwu/Magisk/releases/tag/v20.4">magisk</a></p>
-<p>4. reboot </p>
 <h2> Notes </h2>
 - it doesn't wipe your internal memory
- 
+<h2>Discussion </h2>
+<p><a href="https://forum.xda-developers.com/t/rom-mod-stockrom-mod-asus-zenfone-max-pro-m2.4018593/">Xda</a></p>
+<p><a href="https://t.me/stockrommod/">Telegram</a></p>
