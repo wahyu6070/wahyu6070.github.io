@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wahyu6070 website
+title: Website
 email: gwtsendangrejo6070@gmail.com
 description: "Hello my name is wahyu or commonly known (wahyu6070), this is my official page."
 baseurl: "/"
