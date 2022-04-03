@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: external
 title:  "Pingger Tweaks Android"
 date:   2022-04-04 17:32:07 +0100
 lang: en
