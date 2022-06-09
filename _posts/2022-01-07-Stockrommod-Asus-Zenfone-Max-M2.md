@@ -22,7 +22,7 @@ categories: Android
   <tbody>
   <tr>
     <th scope="row">071</th>
-      <td>9.0</td> 
+      <td>9.0</td>
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/071-STOCKROM-MOD-X01BD-2019-12-01.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td> 
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
@@ -47,7 +47,6 @@ categories: Android
       <td><a href="https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X01BD/094-STOCKROM-MOD-X01BD-2020-08-05.zip/download"><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/d.png" alt="Download" style="width:22px;height:22px;"></a></td>
       <td>Predecrypt</td>
       <td><img src="https://github.com/litegapps/litegapps.github.io/raw/master/pages/images/x.png" alt="X" style="width:22px;height:22px;"></td>
-      </td>
   </tr>  
   </tbody>
   </table>

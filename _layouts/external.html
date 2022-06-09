@@ -9,7 +9,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ "/assets/css/blog.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/external.css" | relative_url }}">
 	<title>{{ page.title }}</title>
 	<link rel="shortcut icon" type="image/png" href="/assets/img/icon.ico">
 	</head>
@@ -17,12 +17,17 @@
 
 <body>
 {% include google_tag_manager_body.html %}
-	
+{% include ads.html %}
 <h1>{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
 
 {{ content }}
 
+{% include ads_footer.html %}
+
+
+<hr>
+<p><div class="MID"><b>© wahyu6070 project</b></div></p>
 
 <!-- Optional JavaScript; choose one of the two! -->
 <!-- Option 1: Bootstrap Bundle with Popper -->
