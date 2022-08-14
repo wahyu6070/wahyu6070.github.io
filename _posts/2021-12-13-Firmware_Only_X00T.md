@@ -2,6 +2,7 @@
 layout: post
 title:  "Firmware Only Asus Zenfone Max Pro M1 (X00T)"
 date:   2021-12-12 17:32:07 +0100
+description: Firmware Ony For Asus Zenfone Max Pro M1
 lang: en
 categories: Android
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  "StockromMod Asus Zenfone Max Pro M2 (X01BD)"
 date:   2022-01-06 17:32:07 +0100
+description: Stockrommod Asus Zenfone Max Pro M2
 lang: en
 categories: Android
 ---
