@@ -273,6 +273,13 @@ p {
 		}
 		
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,600&display=swap');
+@font-face {
+	font-family: main;
+	src: url(/assets/font/main.ttf);
+	}
+p{
+	font-family: main;
+	}
 .text-special {
 	background-color: #fff;
 	color: #1e90ff;
@@ -281,3 +288,4 @@ p {
 	text-align: center;
 	font-family: 'Roboto Mono', monospace;
 	}
+	
