@@ -51,8 +51,8 @@
 
 .dark-style {
 	position: relative;
-	display: inline-block;
-  width: 600px;
+	display: flex;
+  width: 34px;
   height: 34px;
 	
   cursor: pointer;
@@ -62,8 +62,9 @@
   bottom: 0;
   -webkit-transition: .4s;
   transition: .4s;
-  align-items: center;
+  
   padding-right: 150px;
-	
+  padding-bottom: 20px;
+  align-items: center;
 	}
 	
