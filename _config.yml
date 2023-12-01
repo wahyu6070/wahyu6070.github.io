@@ -1,16 +1,7 @@
-
 title: wahyu6070
-email: gwtsendangrejo6070@gmail.com
-description: "Wahyu6070 official page, find my Blog,Project,Documentation and some of my writings on this page"
 baseurl: "/"
-google_site_verification: "94rkeyddW-e9GtaJKEc9vvHYylZvmO9XxdQKoEJ7zTU"
 url: "wahyu6070.github.io"
-twitter_username: wahyu6070
-github_username:  wahyu6070
-author: wahyu6070
 
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
