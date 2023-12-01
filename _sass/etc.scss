@@ -4,6 +4,8 @@
   font-family: 'Italianno', cursive;
   text-align: center;
   font-size: 35px;
+  animation: slideInDown; 
+  animation-duration: 3s;
   }
 .text-title{
   color: #007d9c;
@@ -62,5 +64,7 @@
   line-height: 1.3;
   margin: 0;
   text-align: center;
+  animation: slideInUp; 
+  animation-duration: 2s;
 }
 

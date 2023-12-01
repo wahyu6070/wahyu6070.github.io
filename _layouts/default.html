@@ -6,7 +6,7 @@
   {% include Google_Search_Consose.html %}
   {% seo title=false %}
   {% include default.html %}
-  {% include bootstrap_in.html %}
+  {% include framework.html %}
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 	<title>{{ page.title }}</title>
 	<link rel="shortcut icon" type="image/png" href="/assets/img/icon.ico">
@@ -19,7 +19,7 @@
 {{ content }}
 {% include ads_footer.html %}
 {% include footer.html %}
-{% include bootstrap_out.html %}
+{% include footer_js.html %}
 
 </body>
 </html>
