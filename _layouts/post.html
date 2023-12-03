@@ -16,12 +16,18 @@
 <body>
 {% include google_tag_manager_body.html %}
 {% include navigation.html %}
-{% include ads.html %}
-	
+{% include ads_body.html %}
+<main>
+<header>
 <h1>{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
+</header>
 
+<article>
 {{ content }}
+</article>
+
+</main>
 
 {% include ads_footer.html %}
 
