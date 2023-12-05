@@ -3,54 +3,44 @@
     <a class="navbar-brand" href="/index.html">
     <div class="text-icon">Wahyu6070</div>
       </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav me-auto mb-2 mb-md-0">
         <li class="nav-item">
-          <a 
-          {% if page.url == "/" %} class="nav-link active" aria-current="page" 
-          {% else %} <a class="nav-link"
-          {% endif %}
-          href="/index.html">
-          Home</a>
-        </li>
-        <li class="nav-item">
-          <a 
-          {% if page.url == "/blog" %} class="nav-link active" aria-current="page"
-          {% elsif page.url == /blog/ %} class="nav-link active" aria-current="page" 
-          {% else %} <a class="nav-link"
-          {% endif %}
-          href="/blog">
-          Blog</a>
-        </li>
+        {% if page.layout == "home" %}
+          <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+        {% else %}
+        	 <a class="nav-link" aria-current="page" href="/index.html">Home</a>
+        {% endif %}
         </li>
         <li class="nav-item">
-          <a 
-          {% if page.url == "/project" %} class="nav-link active" aria-current="page" 
-          {% else %} <a class="nav-link"
-          {% endif %}
-          href="/project">
-          Project</a>
+        {% if page.layout == "post" %}
+          <a class="nav-link active" aria-current="page" href="/blog.html">Blog</a>
+        {% else %}
+        	 <a class="nav-link" aria-current="page" href="/blog.html">Blog</a>
+        {% endif %}
         </li>
+        
         <li class="nav-item">
-          <a 
-          {% if page.url == "/documentation" %} class="nav-link active" aria-current="page" 
-          {% else %} <a class="nav-link"
-          {% endif %}
-          href="/documentation">
-          Documentation</a>
-        </li>
-        <li class="nav-item">
-          <a 
-          {% if page.url == "/about" %} class="nav-link active" aria-current="page" 
-          {% else %} <a class="nav-link"
-          {% endif %}
-          href="/about">
-          About</a>
-        </li>
-      </ul>
-    </div>
+        {% if page.layout == "external" %}
+          <a class="nav-link active" aria-current="page" href="/project.html">Project</a>
+        {% else %}
+        	 <a class="nav-link" aria-current="page" href="/project.html">Project</a>
+        {% endif %}  
+         <li class="nav-item">
+        {% if page.layout == "doc" %}
+          <a class="nav-link active" aria-current="page" href="/documentation.html">Documentation</a>
+        {% else %}
+        	 <a class="nav-link" aria-current="page" href="/documentation.html">Documenation</a>
+        {% endif %}  
+         <li class="nav-item">
+        {% if page.layout == "external" %}
+          <a class="nav-link active" aria-current="page" href="/project.html">Project</a>
+        {% else %}
+        	 <a class="nav-link" aria-current="page" href="/project.html">Project</a>
+        {% endif %}  
+      </div>
   </div>
 </nav>
