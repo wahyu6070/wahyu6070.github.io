@@ -10,7 +10,7 @@ categories: blog
 
 <h2>1. Buka link</h2>
 <p>Maka akan muncul seperti dibawah</p>
-<img src="https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/1639308909672.png" class="img-fluid" alt="...">
+![ok](https://github.com/wahyu6070/Cloud/raw/main/blog/12-12-2021/1639308909672.png)
 <p>Pilih yang lingkarin berwarna hijau</p>
 <h2>2. Download</h2>
 <p>Tunggu 5 detik seperti gambar dibawah</p>
