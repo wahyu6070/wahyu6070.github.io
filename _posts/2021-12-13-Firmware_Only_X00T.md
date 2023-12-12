@@ -62,9 +62,12 @@ categories: Android
   Android 10.0 (final)
    
   
-<h2>How to install</h2>
+##:How to install
+
 <p>Install in custom recovery</p>
-<h2> Notes </h2>
+
+## Notes </h2>
+
 - this is not rom
 - it will not wipe your internal memory
 - if you want to install lineage 15.1 use firmware 340
