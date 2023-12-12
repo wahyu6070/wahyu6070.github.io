@@ -3,8 +3,29 @@ baseurl: "/"
 url: "wahyu6070.github.io"
 
 plugins:
-  
-  - jekyll-seo-tag
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
   
+    
+# Pagination 
+#paginate: 6
+#paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
