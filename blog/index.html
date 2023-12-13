@@ -1,0 +1,21 @@
+---
+layout      : post
+title       : Blog
+
+# override property
+color_main  : brown
+
+pagination: 
+  enabled: true
+
+# custom frontmatter for pagination
+paginate_root   : /blog
+---
+<div class="container">
+{% include pag.html %}
+
+{% assign posts = paginator.posts %}
+
+
+{% include blog-list.html %}
+</div>

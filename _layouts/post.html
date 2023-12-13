@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="{{ page.lang }}">
   <head>
+  {% include default.html %}
   {% include google_head.html %}
   {% include ads_head.html %} 
   {% seo title=false %}
-  {% include default.html %}
   {% include framework.html %}
    <link rel="stylesheet" href="{{ "/assets/css/blog.css" | relative_url }}">
 	<title>{{ page.title }}</title>
@@ -25,7 +25,7 @@
 <article>
 {{ content }}
 </article>
-
+{% include pag.html %}
 </main>
 
 {% include ads_footer.html %}

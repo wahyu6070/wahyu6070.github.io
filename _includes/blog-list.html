@@ -1,0 +1,20 @@
+
+  {% assign color_main  = page.color_main  | default: layout.color_main %}
+
+  <div class='blog_borderrr'>
+  {% for post in posts %}
+    <div class='blog_border'>
+            <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>
+            <h3 class="post__title">
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+            </h3>
+            <p class="article__excerpt">
+                {% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}
+            </p>
+            
+        </div>
+  {% endfor %}
+  </div>
+
