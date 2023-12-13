@@ -4,7 +4,8 @@
   <div class='blog_borderrr'>
   {% for post in posts %}
     <div class='blog_border'>
-            <span class="post-meta"><i class="fa fa-calendar"></i> {{ post.date | date: date_format }}</span>
+    		<span><time datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%b %-d, %Y" }}</time></span>
+          
             <h3 class="post__title">
                 <a class="post-link" href="{{ post.url | relative_url }}">
                     {{ post.title | escape }}

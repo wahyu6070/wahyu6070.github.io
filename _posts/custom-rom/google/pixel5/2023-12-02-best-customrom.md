@@ -21,7 +21,7 @@ In this article, we will review some of the best custom ROMs for Google Pixel 5 
 
 ## Lineage OS
 
-[Lineage OS](^1^) is one of the most popular and trusted custom ROMs in the Android community. It is based on the latest Android 11 and offers a clean, smooth, and stable experience. Lineage OS has a minimalistic and user-friendly interface, with no bloatware or unnecessary apps. It also has many customization options, such as themes, icons, fonts, gestures, and more. Lineage OS also supports OTA updates, which means you can get the latest security patches and bug fixes without wiping your data.
+[Lineage OS](https://wahyu6070.github.io/cusrom/2023/12/10/lineage-20-redfin.html) is one of the most popular and trusted custom ROMs in the Android community. It is based on the latest Android 11 and offers a clean, smooth, and stable experience. Lineage OS has a minimalistic and user-friendly interface, with no bloatware or unnecessary apps. It also has many customization options, such as themes, icons, fonts, gestures, and more. Lineage OS also supports OTA updates, which means you can get the latest security patches and bug fixes without wiping your data.
 
 Some of the features of Lineage OS for Pixel 5 are:
 
@@ -31,11 +31,11 @@ Some of the features of Lineage OS for Pixel 5 are:
 - Snap Camera: A simple and powerful camera app that supports HDR, portrait mode, panorama, and more.
 - Recorder: A handy app that lets you record audio and screen with ease.
 
-To download and install Lineage OS on your Pixel 5, visit [this link](^1^) and follow the instructions.
+To download and install Lineage OS on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/10/lineage-20-redfin.html) and follow the instructions.
 
 ## ProtonAOSP
 
-[ProtonAOSP](^4^) is the first custom ROM for Pixel 5 that claims to improve the performance and battery life of the device. It is based on Android 11 and uses a custom kernel that optimizes the CPU, GPU, and memory management. ProtonAOSP also has a sleek and modern design, with improved animations, icons, and fonts. ProtonAOSP also includes some useful features, such as:
+[ProtonAOSP](https://wahyu6070.github.io/cusrom/2023/12/12/protonOASP-11.html) is the first custom ROM for Pixel 5 that claims to improve the performance and battery life of the device. It is based on Android 11 and uses a custom kernel that optimizes the CPU, GPU, and memory management. ProtonAOSP also has a sleek and modern design, with improved animations, icons, and fonts. ProtonAOSP also includes some useful features, such as:
 
 - Adaptive charging: Extends the battery lifespan by limiting the charging speed when the device is idle.
 - Adaptive brightness: Learns from your usage and adjusts the screen brightness accordingly.
@@ -43,11 +43,11 @@ To download and install Lineage OS on your Pixel 5, visit [this link](^1^) and f
 - Face unlock: Allows you to unlock your device with your face, even in low-light conditions.
 - Google Camera: The official camera app from Google that supports Night Sight, Astrophotography, and more.
 
-To download and install ProtonAOSP on your Pixel 5, visit [this link](^4^) and follow the instructions.
+To download and install ProtonAOSP on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/12/protonOASP-11.html) and follow the instructions.
 
 ## CrDroid OS
 
-[CrDroid OS](^1^) is another custom ROM based on Android 11 that aims to provide a smooth and feature-rich experience. CrDroid OS has a lot of customization options, such as status bar, navigation bar, quick settings, lock screen, and more. CrDroid OS also has some unique features, such as:
+[CrDroid OS](https://wahyu6070.github.io/cusrom/2023/12/12/crdroid-redfin.html) is another custom ROM based on Android 11 that aims to provide a smooth and feature-rich experience. CrDroid OS has a lot of customization options, such as status bar, navigation bar, quick settings, lock screen, and more. CrDroid OS also has some unique features, such as:
 
 - Smart Pixels: Reduces the screen power consumption by turning off some pixels.
 - Ambient Display: Shows notifications and other information on the screen when the device is off.
@@ -55,11 +55,11 @@ To download and install ProtonAOSP on your Pixel 5, visit [this link](^4^) and f
 - Screen Recorder: A built-in screen recorder that supports internal audio and quality settings.
 - OTA Updates: Allows you to update your ROM without losing your data or settings.
 
-To download and install CrDroid OS on your Pixel 5, visit [this link](^1^) and follow the instructions.
+To download and install CrDroid OS on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/12/crdroid-redfin.html) and follow the instructions.
 
 ## ScorpionROM
 
-[ScorpionROM](^1^) is a custom ROM based on Android 11 that focuses on stability, performance, and security. ScorpionROM has a simple and elegant interface, with no bloatware or unnecessary apps. ScorpionROM also has some useful features, such as:
+[ScorpionROM](https://wahyu6070.github.io/cusrom/2023/12/12/scorpion-redfin.html) is a custom ROM based on Android 11 that focuses on stability, performance, and security. ScorpionROM has a simple and elegant interface, with no bloatware or unnecessary apps. ScorpionROM also has some useful features, such as:
 
 - Pixel Launcher: The default launcher from Google that offers a fast and smooth experience.
 - Pixel Wallpapers: A collection of beautiful wallpapers from Google that change with the weather and time of day.
@@ -67,11 +67,11 @@ To download and install CrDroid OS on your Pixel 5, visit [this link](^1^) and f
 - Pixel Themes: A theme engine that lets you change the accent color, icon shape, and font of your device.
 - Pixel Extras: A menu that lets you access some hidden features and settings of your device.
 
-To download and install ScorpionROM on your Pixel 5, visit [this link](^1^) and follow the instructions.
+To download and install ScorpionROM on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/12/scorpion-redfin.html) and follow the instructions.
 
 ## Evolution X
 
-[Evolution X](^1^) is a custom ROM based on Android 11 that offers a balanced and enjoyable experience. Evolution X has a smooth and fluid interface, with some added features and customization options. Evolution X also has some cool features, such as:
+[Evolution X](https://wahyu6070.github.io/cusrom/2023/12/12/evolutionx-redfin.html) is a custom ROM based on Android 11 that offers a balanced and enjoyable experience. Evolution X has a smooth and fluid interface, with some added features and customization options. Evolution X also has some cool features, such as:
 
 - Always On Display: Keeps the screen on and shows the time, date, battery, and notifications.
 - Edge Lighting: Lights up the edges of the screen when you receive a notification or a call.
@@ -79,11 +79,11 @@ To download and install ScorpionROM on your Pixel 5, visit [this link](^1^) and 
 - Double Tap to Sleep: Puts the device to sleep by tapping the status bar or the lock screen twice.
 - Fingerprint Gestures: Allows you to perform actions by swiping on the fingerprint sensor.
 
-To download and install Evolution X on your Pixel 5, visit [this link](^1^) and follow the instructions.
+To download and install Evolution X on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/12/evolutionx-redfin.html) and follow the instructions.
 
 ## Project Sakura
 
-[Project Sakura](^1^) is a custom ROM based on Android 11 that aims to provide a smooth and stable experience. Project Sakura has a clean and minimal interface, with no bloatware or unnecessary apps. Project Sakura also has some handy features, such as:
+[Project Sakura](https://wahyu6070.github.io/cusrom/2023/12/12/projectsakura-redfin.html) is a custom ROM based on Android 11 that aims to provide a smooth and stable experience. Project Sakura has a clean and minimal interface, with no bloatware or unnecessary apps. Project Sakura also has some handy features, such as:
 
 - Smart Charging: Stops the charging when the battery reaches a certain level to prevent overcharging.
 - Smart Cutout: Hides the notch or the punch-hole of the screen by adding a black bar.
@@ -91,7 +91,7 @@ To download and install Evolution X on your Pixel 5, visit [this link](^1^) and 
 - Smart Pulldown: Allows you to access the quick settings by swiping down from the right corner of the status bar.
 - Smart Reply: Suggests quick responses and actions based on the content of your messages.
 
-To download and install Project Sakura on your Pixel 5, visit [this link](^1^) and follow the instructions.
+To download and install Project Sakura on your Pixel 5, visit [this link](https://wahyu6070.github.io/cusrom/2023/12/12/projectsakura-redfin.html) and follow the instructions.
 
 # Conclusion
 
