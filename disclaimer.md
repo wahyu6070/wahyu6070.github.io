@@ -20,7 +20,7 @@ Here is an example of a disclaimer for a website blog using markdown:
 
 **Disclaimer**
 
-The content on this blog is provided by **wahyu6070**, the owner and author of [wahyu6070.github.io](https://wahyu6070.github.io). The content is for informational and entertainment purposes only and does not constitute professional advice or services. The views and opinions expressed on this blog are solely those of the author and do not necessarily reflect the views of any organizations or affiliates that the author may be associated with.
+The content on this blog is provided by **wahyu6070**, the owner and author of wahyu6070.github.io  . The content is for informational and entertainment purposes only and does not constitute professional advice or services. The views and opinions expressed on this blog are solely those of the author and do not necessarily reflect the views of any organizations or affiliates that the author may be associated with.
 
 The author and the blog owner are not liable for any damages or losses that may arise from the use of or reliance on the information provided on this blog. The readers are advised to exercise their own judgment and discretion before taking any action based on the blog content.
 

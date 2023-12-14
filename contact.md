@@ -20,7 +20,3 @@ You can email us at `wahyu6070@gmail.com` for any general inquiries or support r
 
 You can call us at `+62-123-446-7870` from Monday to Friday, 9 AM to 5 PM (GMT+7). Please note that we may not be able to answer your call during peak hours or holidays.
 
-## Social Media
-
-You can also follow us and message us on our social media platforms. We are active on [Facebook](https://fb.me/wahyu6070), [Twitter](https://twitter.com/wahyu6070), and [Instagram](https://instagram.com/wahyu_6070). We post regular updates, tips, and promotions on our pages.
-
