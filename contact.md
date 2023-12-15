@@ -6,9 +6,6 @@ lang: eng-us
 permalink: /contact
 ---
 
-I can help you with creating a contact us page for your website using markdown. Here is an example of how you can write a simple and effective contact us page:
-
-# Contact Us
 
 We would love to hear from you! Whether you have a question, feedback, or suggestion, please feel free to contact us using any of the methods below. We will get back to you as soon as possible.
 
