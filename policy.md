@@ -84,11 +84,6 @@ Our website blog may contain links to other sites that are not operated by us. I
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-## Children's Privacy
-
-Our website blog does not address anyone under the age of 18 ("Children").
-
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## Changes to This Privacy Policy
 
