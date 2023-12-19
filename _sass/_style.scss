@@ -4,8 +4,6 @@
   font-family: 'Italianno', cursive;
   text-align: center;
   font-size: 35px;
-  animation: slideInDown; 
-  animation-duration: 3s;
   }
 .text-title{
   color: #007d9c;
@@ -104,6 +102,8 @@
 @font-face {
 	font-family: h1;
 	src: url(/assets/font/h1.ttf);
+	font-style: normal;
+	font-weight: 600;
 	}
 	
 h1{
@@ -112,8 +112,13 @@ h1{
 @font-face {
 	font-family: main;
 	src: url(/assets/font/main.ttf);
+	
 	}
-p{
+p,
+:root,
+ul,
+li
+{
 	font-family: main;
 	}
 	
@@ -164,6 +169,7 @@ p{
 @font-face {
 	font-family: main;
 	src: url(/assets/font/main.ttf);
+	font-weight: 400;
 	}
 	
 
@@ -201,6 +207,19 @@ a:hover {
 a:active {
 	text-decoration: none;
 	color: #007d9c;
+	}
+h1 {
+	text-align: center;
+	font-size: 35px;
+	
+	}
+h2 {
+	text-align: center;
+	font-size: 27px;
+	}
+	
+h3 {
+	font-size: 20px;
 	}
 
 

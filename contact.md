@@ -15,5 +15,5 @@ You can email us at `wahyu6070@gmail.com` for any general inquiries or support r
 
 ## Phone
 
-You can call us at `+62-123-446-7870` from Monday to Friday, 9 AM to 5 PM (GMT+7). Please note that we may not be able to answer your call during peak hours or holidays.
+You can call us at `+62-853-446-7870` from Monday to Friday, 9 AM to 5 PM (GMT+7). Please note that we may not be able to answer your call during peak hours or holidays.
 

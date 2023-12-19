@@ -16,11 +16,9 @@
       <!-- Get paginate_root from page in frontmatter -->
       {% assign paginate_root = page.paginate_root %} 
       {% assign p_first = paginate_root %}
-      {% assign p_last = site.pagination.permalink
-                       | prepend: paginate_root 
-                       | relative_url 
-                       | replace: ':num', total_pages %}
-
+      {% assign p_last = site.paginate_path | relative_url  | replace: ':num', total_pages %}
+       
+      
       {% assign page_current  = paginator.page %}
 
       {% assign link_offset   = 2 %}  
@@ -40,29 +38,7 @@
 
     {% endcapture %}
     
-
-      <!-- First Page. -->
-      
-      {% unless paginator.page == 1 %}
-      <li class="page-item">
-        <a class="page-link"
-           href="{{ p_first }}"
-           rel="first">
-          
-          <span class="sr-only">First</span>
-        </a>
-        </li>
-      {% else %}
-      <li class="page-item">
-        <a class="page-link"
-           title="This is the first page"
-           disabled>
-          <span class="fas fa-step-backward"></span>&nbsp;
-        </a>
-        </li>
-      {% endunless %}
-      
-
+    
       <!-- Previous Page. -->
       
       {% if paginator.previous_page %}
@@ -73,7 +49,7 @@
            href="{{ p_prev }}" 
            rel="prev">
           
-          <span class="sr-only">Previous</span>
+          <span class="sr-only">Prev</span>
         </a>
        </li>
       {% else %}
@@ -173,10 +149,7 @@
           {% if page == 1 %}
             {% assign p_link = p_first %}
           {% else %}
-            {% assign p_link = site.pagination.permalink
-                             | prepend: paginate_root
-                             | relative_url
-                             | replace: ':num', page %}
+            {% assign p_link = site.paginate_path | relative_url  | replace: ':num', page %}
           {% endif %}
           {% endcapture %}
 		<li class="page-item">
@@ -208,8 +181,7 @@
         <a class="page-link" 
            href="{{ p_last }}"
            aria-label="Goto page {{ total_pages }}">
-          {{ total_pages }}
-          <p>{{ p_last }}</p>
+          <span>{{ total_pages }}</span>
         </a>
       </li>
       {% endif %}
@@ -236,30 +208,7 @@
         </a>
       </li>
       {% endif %}
-      
-
-      <!-- Last Page. -->
-      <!-- last page not active -->
-      {% unless paginator.page == total_pages %}
-      <li class="page-item active">
-        <a class="page-link"
-           href="{{ p_last }}"
-           
           
-          <span class="sr-only">Last</span>
-        </a>
-       </li> 
-      {% else %}
-      <li class="page-item">
-        <a class="page-link"
-           title="This is the last page"
-           disabled>&nbsp;
-          <span class="fas fa-step-forward"></span>
-        </a>
-       </li> 
-      {% endunless %}
-
-    
   {% endif %}
   </ul>
 </nav>
