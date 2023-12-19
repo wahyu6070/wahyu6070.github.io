@@ -12,28 +12,6 @@ Welcome to our website! By using our services, you agree to be bound by the foll
 
 We provide a platform for users to create, share, and discover content on various topics. You can browse, read, comment, and vote on the content posted by other users. You can also create your own content and post it on our website, as long as it complies with our content guidelines and policies.
 
-## User Accounts
-
-To access some features of our website, you need to create a user account. You are responsible for maintaining the security of your account and password. You are also responsible for any activity that occurs under your account. You agree to notify us immediately of any unauthorized use of your account or any other breach of security.
-
-You must provide accurate and complete information when creating your account. You must not use a false identity or impersonate another person or entity. You must not use a username or display name that is offensive, vulgar, or infringes the rights of others.
-
-We reserve the right to suspend or terminate your account at any time, for any reason, without notice or liability. We also reserve the right to remove or modify any content you post on our website, at our sole discretion.
-
-## User Conduct
-
-You agree to use our website in a lawful and respectful manner. You must not:
-
-- Violate any applicable laws or regulations
-- Harass, abuse, threaten, or defame any person or entity
-- Post or transmit any content that is illegal, obscene, pornographic, hateful, violent, or otherwise objectionable
-- Infringe the intellectual property rights, privacy rights, or other rights of any person or entity
-- Post or transmit any content that contains viruses, malware, or other harmful or malicious code
-- Attempt to gain unauthorized access to our website, servers, or systems, or interfere with their normal operation
-- Use our website for any commercial or advertising purposes, without our prior written consent
-
-We do not endorse, support, or verify the accuracy, quality, or reliability of any content posted by users on our website. You use our website and its content at your own risk.
-
 ## Privacy Policy
 
 We respect your privacy and are committed to protecting it. Please refer to our [privacy policy](/policy) for more information on how we collect, use, and disclose your personal information.
