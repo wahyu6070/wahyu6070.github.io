@@ -52,3 +52,5 @@ So in conclusion, this stock ROM mod is suitable for those of you who like the s
 
 ## link
 
+[Sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/ROM/STOCKROM_MOD/X00T/)
+
