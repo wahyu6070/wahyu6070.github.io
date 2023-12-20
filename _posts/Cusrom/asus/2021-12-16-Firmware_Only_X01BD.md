@@ -7,42 +7,30 @@ description: Firmware Ony For Asus Zenfone Max Pro M2
 categories: Android
 ---
 
+This time I will various firmware only on the Asus Zenfone Max Pro M2, the firmware is updated from Asus stock which was ported as flashable by the developer Wahyu6070 so that it can be installed on TWRP.
 
-<h2>Download</h2>
-[Firmware Oreo](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-OREO-X01BD.zip/download)
- Android 8.1
-  
-[Firmware 065](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-065-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 067](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-067-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 069](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-069-X01BD.zip/download)
-  Android 9.0 (Recomended)
-   
-[Firmware 070](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-070-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 075](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-075-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 092](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-092-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 094](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-094-X01BD.zip/download)
-  Android 9.0
-   
-[Firmware 097](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-097-X01BD.zip/download)
-  Android 9.0
-     
- [Firmware 428](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/FIRMWARE-428-X01BD.zip/download)
-  Android 10.0
-  <p>Firmware 438</p>
-    
-<h2>How to install</h2>
-<p>Install in custom recovery</p>
-<h2> Notes </h2>
-- this is not rom
-- it will not wipe your internal memory
-- if you want to install lineage 15.1 use firmware Oreo
+This firmware is very important even more than the kernel as the main component of the Android OS.
+
+This firmware functions like the Linux kernel, namely connecting from hardware to software with a low coding language, even lower than the kernel. So this will connect from core hardware such as networks, internet connections to the Linux kernel/Android OS.
+
+
+## What are the advantages of installing firmware?
+
+- We can update drivers from the network/internet so that it is faster and more stable.
+- Can improve hardware performance to make it more efficient
+- Can be used by developers to add support to the latest Android version.
+
+## how to install 
+
+- wipe /data /cache /system /vendor
+- Install firmware only
+- install rom
+- reboot system
+
+## Link
+
+Make sure you download it correctly and according to what your ROM requires, because if it is wrong there is a risk of being completely bricked/dead.
+
+[sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/)
+
+

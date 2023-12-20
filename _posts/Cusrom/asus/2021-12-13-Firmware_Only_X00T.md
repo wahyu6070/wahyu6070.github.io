@@ -1,73 +1,45 @@
 ---
 layout: post
 title:  "Firmware Only Asus Zenfone Max Pro M1 (X00T)"
-date:   2021-12-12 17:32:07 +0100
+date:   2021-12-12
 description: Firmware Ony For Asus Zenfone Max Pro M1
 lang: en
 categories: Android
 ---
 
 
-<h2>Download</h2>
-[Firmware 247](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-247-X00T.zip/download)
- Android 8.1
-  
-[Firmware 318](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-318-X00T.zip/download)
-  Android 8.1
-   
-  
-[Firmware 340](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-340-X00T.zip/download)
-  Android 8.1
-   
-[Firmware 053](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-053-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 055](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-055-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 058](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-058-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 060](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-060-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 061](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-061-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 063](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-063-X00T.zip/download)
-  Android 9.0 (Recomended)
-   
-[Firmware 082](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-082-X00T.zip/download)
-  Android 9.0
-     
- [Firmware 084](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-084-X00T.zip/download)
-  Android 9.0
-   
-[Firmware 087](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-087-X00T.zip/download)
-  Android 9.0 (final)
-  
-[Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 424](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-424-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 407](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-407-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 429](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-429-X00T.zip/download)
-  Android 10.0
-   
-[Firmware 432](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/FIRMWARE-432-X00T.zip/download)
-  Android 10.0 (final)
-   
-  
-## How to install
+This time I will share the firmware only on the Asus Zenfone Max Pro M1, this is quite important for the installation process but we will discuss it first.
 
-Install in custom recovery
+### What Is  Firmware?
 
-## Notes
+Firmware is a complete package of the Android operating system, namely ROM, kernel, ony firmware, vendor and other components. So this firmware is very important on Android, which is usually developed by smartphone vendors and updated to fix problems in the software.
 
-- this is not rom
-- it will not wipe your internal memory
-- if you want to install lineage 15.1 use firmware 340
+### How firmware works?
+
+Firmware functions as the main component of the Android system, but here what we are discussing is firmware only, not firmware as a whole.
+
+firmware only serves as a means to connect from hardware to software with a low code language and even lower than the kernel.
+
+So its position is slightly higher than the kernel, if the kernel connects hardware to software as a driver almost entirely in the Android OS. But this firmware only connects hardware to core software components such as the internet network, bootloader and so on.
+
+This firmware is usually updated with stock ROM in one package, so smartphone vendors usually update drivers such as internet network, bootloader and others to improve performance. So this is a core component, don't let us install it incorrectly because our smartphone could be completely bricked/dead.
+
+### What are the advantages of us updating?
+
+- By updating the firmware we can improve the network on our smartphone.
+- Updating the firmware is the same as updating the driver so that our device has faster performance.
+- With this firmware developers can add support to newer Androids.
+
+### How to install 
+
+- Wipe /data /cache /system /vendor
+- Install Firmware only
+- install rom
+- reboot system
+
+
+### Link
+
+This firmware is ported from stock ROM by developer Wahyu6070, make sure you download it correctly and according to the ROM you installed.
+
+[sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/)

@@ -36,7 +36,7 @@ There are many features that I have added to this stockrom mod, namely
 
 and there are many features that I can't mention, basically you can use many of my features and tweaks instead of using the stock ROM from Asus.
 
-# How To Install
+## How To Install
 
 How to install it is quite easy, make sure you have the latest version of TWRP installed.
 
