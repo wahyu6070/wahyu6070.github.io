@@ -9,17 +9,19 @@ tagline: jancox tool android
 permalink: /tools/jancox-tool
 ---
 
-jancox tool adalah alat untuk unpack dan repack rom android yang di kembangkan oleh wahyu6070,dengan mendukung multi platform android,windows dan linux.
+Jancox Tool is a tool for unpacking and repacking Android ROMs developed by Wahyu6070, supporting multi-platform Android, Windows and Linux.
 
-Dengan jancox tool anda bisa momodifikasi rom android yang anda sesuaikan dan kembangkan agar lebih baik dari stock aslinya,biasanya para pengembang melakukan modifikasi ke misalnya :
+Jancox Tool is a tool for unpacking and repacking Android ROMs developed by Wahyu6070, supporting multi-platform Android, Windows and Linux.
 
-- menghapus aplikasi bawaan 
-- mengubah kernel bawaan
-- menambah fitur 
-- menambahkan tweaks
-- memperbaiki rom dan ke stabilan rom
+With the Jancox tool you can modify the Android ROM that you customize and develop so that it is better than the original stock, usually developers make modifications to, for example:
 
-dan tentunya masih banyak susuai keainginan anda.
+- delete default applications
+- change default kernel
+- add features
+- added tweaks
+- Repair ROM and ROM stability
+
+and of course there are still many according to your wishes.
 
 ## How To Usage
 
