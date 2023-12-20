@@ -1,6 +1,6 @@
 title: wahyu6070
 baseurl: "/"
-url: "wahyu6070.github.io"
+url: "https://wahyu6070.github.io"
 
 plugins:
   - jekyll-paginate

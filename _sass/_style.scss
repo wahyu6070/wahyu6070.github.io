@@ -104,6 +104,7 @@
 	src: url(/assets/font/h1.ttf);
 	font-style: normal;
 	font-weight: 600;
+	font-display: swap;
 	}
 	
 h1{
@@ -112,7 +113,7 @@ h1{
 @font-face {
 	font-family: main;
 	src: url(/assets/font/main.ttf);
-	
+	font-display: swap;
 	}
 p,
 :root,
@@ -170,6 +171,7 @@ li
 	font-family: main;
 	src: url(/assets/font/main.ttf);
 	font-weight: 400;
+	font-display: swap;
 	}
 	
 
