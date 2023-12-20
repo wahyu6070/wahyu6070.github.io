@@ -8,3 +8,24 @@ description: Pingger stable module magisk/ksu for optimizing ping  gaming experi
 permalink: /android/pingger
 ---
 
+pingger stable is a magisk/ksu module that functions to repair unstable ping caused by the ROM during use.
+
+This module was developed by Wahyu6070, as a solution when playing games, the network ping is very high. So this module is suitable for those of you who like playing games but the ping is high and unstable.
+
+## Features
+
+- Use aosp apn
+- Configure props inet
+
+## How to install
+
+- Install magisk or ksu
+- Install module in magisk or ksu
+- reboot system
+- open terminal
+- ``pingger`` enter
+- go to pingger menu
+
+## link
+
+[sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/Magisk_Modules/Pingger/)
