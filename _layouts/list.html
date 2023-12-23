@@ -1,17 +1,14 @@
 {% include meta/html.html %}
-  <head>
-  {% include default.html %}
-  {% include google_head.html %}
-  {% include ads_head.html %} 
-  {% seo title=false %}
-  {% include framework.html %}
-  <link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
-  
-  	
-  <title>Wahyu6070</title>
-  <link rel="shortcut icon" type="image/png" href="/assets/img/icon.ico">
-  </head>
-
+<head>
+<title>{{ page.title }}</title>
+<link rel="shortcut icon" type="image/png" href="/assets/img/icon.ico">
+{% include default.html %}
+{% include ads_head.html %} 
+{% seo title=false %}
+{% include framework.html %}
+<link rel="stylesheet" href="{{ "/assets/css/home.css" | relative_url }}">
+{% include google_head.html %}
+</head>
 <body>
 
 {% include google_body.html %}
