@@ -3,7 +3,7 @@ layout: post
 title: Privacy and Policy
 description:
 lang: en
-permalink: /policy
+permalink: /privacy-policy
 ---
 
 

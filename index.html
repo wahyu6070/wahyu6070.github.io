@@ -9,9 +9,11 @@ tagline: wahyu6070
 
 
 <div class="container">
-	<img src="/assets/img/icon.ico" alt="wahyu6070 icon old" class="circular-image ICON1">
-    	<p class="notes">Hello, my name is Wahyu or commonly known (wahyu6070), this is my official page.</p>
+	
+<!-- <img src="/assets/img/icon.ico" alt="wahyu6070 icon old" class="circular-image ICON1"> -->
+<p class="notes">Hello, my name is Wahyu or commonly known (wahyu6070), this is my official page.</p>
 </div>
+
 <div class="container-fluid">
 <div class="row">
   	<div class="col">
@@ -50,10 +52,14 @@ tagline: wahyu6070
       
       <div class="col-md-6 col-product2">
         <div class="h-100 p-5 bg-light border rounded-3">
-          <h2>Project</h2>
-          <p>Some of the projects that I created and developed</p>
-          	
-          <a href="/project.html"><button class="btn btn-outline-secondary" type="button">more</button></a>
+        <h2>Latest Post</h2>
+        <p> </p>
+        {%- for post in site.posts limit:4 -%}
+        
+         
+          <p><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</p>
+          	</a>
+      {%- endfor -%}
         </div>
       </div>
     </div>
