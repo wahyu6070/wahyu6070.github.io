@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: Disclaimer
 description:
-lang: eng-us
+lang: en
 permalink: /disclaimer
 ---
 

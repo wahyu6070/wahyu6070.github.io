@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: Privacy and Policy
 description:
-lang: eng-us
+lang: en
 permalink: /policy
 ---
 

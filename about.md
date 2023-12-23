@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 description: 
 title: About Us
-lang: eng-us
+lang: en
 permalink: /about
 ---
 

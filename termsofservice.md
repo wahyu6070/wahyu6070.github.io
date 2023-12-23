@@ -1,5 +1,6 @@
 ---
-layout: post
+layout : post
+lang   : en
 title  : Terms Of Service
 ---
 

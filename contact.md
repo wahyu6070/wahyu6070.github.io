@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title: Contact Us
 description:
-lang: eng-us
+lang: en
 permalink: /contact
 ---
 
