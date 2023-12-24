@@ -1,4 +1,5 @@
 ---
+layout : post
 title  : Cookie policy
 description: This is the Cookie Policy, accessible from https://litegapps.github.io/
 lang: en
@@ -9,9 +10,6 @@ author : wahyu6070
 permalink : /cookie-policy
 ---
 
-
-
-# Cookie Policy
 
 This is the Cookie Policy, accessible from https://litegapps.github.io/.
 

@@ -99,6 +99,30 @@
   margin: 0;
   text-align: center;
 }
+
+@font-face {
+	font-family: italicc;
+	src: url(/assets/font/italic.ttf);
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	}
+i {
+	font-family: italicc;
+	}
+@font-face {
+	font-family: boldd;
+	src: url(/assets/font/bold.ttf);
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	}
+
+strong,
+b {
+	font-family: boldd;
+	
+	}
 @font-face {
 	font-family: h1;
 	src: url(/assets/font/h1.ttf);
