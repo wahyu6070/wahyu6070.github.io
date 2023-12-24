@@ -5,6 +5,7 @@ date:   2022-01-06
 description: Stockrommod Asus Zenfone Max Pro M2
 lang: en
 categories: Android
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 
 Hello, I'm back again, this time I will share stock ROM mod for Asus Zenfone Max M2.  This stockchrome was developed by Wahyu6070.

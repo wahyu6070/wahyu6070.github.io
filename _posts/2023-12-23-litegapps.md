@@ -5,7 +5,7 @@ title  : LiteGapps Best Custom Gapps Android
 date   : 2023-12-23
 slug   : litegapps
 categories: [Gapps]
-tags      : [magisk, gapps, ksu]
+tags      : [magisk, gapps, ksu, custom gapps, myproject]
 keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
 author : wahyu6070
 opengraph:

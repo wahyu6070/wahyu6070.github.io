@@ -5,6 +5,7 @@ date:   2021-12-16 17:32:07 +0100
 lang: en
 description: Firmware Ony For Asus Zenfone Max Pro M2
 categories: Android
+permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
 
 This time I will various firmware only on the Asus Zenfone Max Pro M2, the firmware is updated from Asus stock which was ported as flashable by the developer Wahyu6070 so that it can be installed on TWRP.

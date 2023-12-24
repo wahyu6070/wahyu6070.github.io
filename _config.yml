@@ -1,6 +1,8 @@
 title: wahyu6070
 baseurl: "/"
 url: "https://wahyu6070.github.io"
+permalink: /:categories/:year/:month/:title
+
 
 plugins:
   - jekyll-paginate
