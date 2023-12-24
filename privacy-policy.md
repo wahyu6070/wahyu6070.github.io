@@ -16,7 +16,7 @@ The information we gather is used to offer, maintain, and secure our users' serv
 
 We reserve the right, in our sole and absolute discretion, to make changes to this Policy from time to time. Please review this Privacy Policy periodically to check for updates.
 
-Updated on: April 19, 2023
+Updated on: April 13, 2023
 
 ## Contact Us
 

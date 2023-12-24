@@ -1,7 +1,7 @@
 ---
 layout : post
 title  : Cookie policy
-description: This is the Cookie Policy, accessible from https://litegapps.github.io/
+description: This is the Cookie Policy, accessible from https://wahyu6070.github.io/
 lang: en
 categories:
 tags      :
@@ -11,7 +11,7 @@ permalink : /cookie-policy
 ---
 
 
-This is the Cookie Policy, accessible from https://litegapps.github.io/.
+This is the Cookie Policy, accessible from https://wahyu6070.github.io/.
 
 ## What Are Cookies
 As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it, and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or ‘break’ certain elements of the site’s functionality.
@@ -38,4 +38,4 @@ For more general information on cookies, please read the Cookies Policy article.
 
 However, if you are still looking for more information then you can contact us through one of our preferred contact methods:
 
-By visiting this link: [contact us](/contact.html)
+By visiting this link: [contact us](/contact)

@@ -97,3 +97,6 @@ LiteGapps Remover functions to remove gapps from stock ROM or custom ROM, this w
 ## Conclusion
 
 Litegapps has complete products and features for handling Google Apps on Android, so this is one of the custom GAPPS that you must have.
+
+For a more complete documentation link, you can visit the official page [LiteGapps](https://litegapps.github.io)
+
