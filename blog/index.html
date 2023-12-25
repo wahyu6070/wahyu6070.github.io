@@ -18,7 +18,7 @@ paginate_root   : /blog
 <div class="container">
 	
 <p>some notes and articles that I wrote to document what I know.</p>
-{% include pag.html %}
+{% include pagination.html %}
 
 {% assign posts = paginator.posts %}
 
@@ -26,6 +26,6 @@ paginate_root   : /blog
 {% include blog-list.html %}
 
 
-{% include pag.html %}
+{% include pagination.html %}
 
 </div>
