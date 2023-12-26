@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Privacy and Policy
 description:
 lang: en

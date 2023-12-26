@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 description: 
 title: About Us
 lang: en

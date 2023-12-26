@@ -54,11 +54,8 @@ ads: true
         <h2>Latest Post</h2>
         <p> </p>
         {%- for post in site.posts limit:4 -%}
-        
-         
-          <p><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</p>
-          	</a>
-      {%- endfor -%}
+          <p><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
+        {%- endfor -%}
         </div>
       </div>
     </div>

@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : single
 title  : Terms Of Service
 description: This is the Terms Of Service, accessible from https://wahyu6070.github.io/
 lang: en

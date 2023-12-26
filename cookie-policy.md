@@ -1,5 +1,5 @@
 ---
-layout : post
+layout : single
 title  : Cookie policy
 description: This is the Cookie Policy, accessible from https://wahyu6070.github.io/
 lang: en
