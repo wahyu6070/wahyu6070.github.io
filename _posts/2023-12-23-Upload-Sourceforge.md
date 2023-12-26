@@ -67,6 +67,5 @@ Example : *``put file.txt``*
 - Use **scp** to upload via *script.sh* with many files automatically.
 
 ## Conclusion
-In conclusion, using SSH via the terminal is the most effective solution when we want to upload large files and large numbers to SourceForge, from LDA we upload via a web browser.
-
+In conclusion, using SSH via the terminal is the most effective solution when we want to upload large files and large numbers to SourceForge, rather than uploading via a web browser.
 
