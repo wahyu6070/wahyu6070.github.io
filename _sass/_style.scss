@@ -3,7 +3,7 @@
   color: #007d9c;
   font-family: 'Italianno', cursive;
   text-align: center;
-  font-size: 35px;
+  font-size: 33px;
   }
 .text-title{
   color: #007d9c;
@@ -57,13 +57,11 @@
 .FOOTER {
 	font-family: 'Italianno', cursive;
 	font-family: 'Mali', cursive;
-  background-color: #fff;
-  color: #3e4042;
-  line-height: 1.3;
-  margin: 0;
-  text-align: center;
-  animation: slideInUp; 
-  animation-duration: 2s;
+    line-height: 1.3;
+    margin: 0;
+    text-align: center;
+    animation: slideInUp; 
+    animation-duration: 2s;
 }
 
 .normal-text {
@@ -75,26 +73,14 @@
   text-align: left;
 	}
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-.MID {
-  background-color: #fff;
-  color: #3e4042;
-  font-family: Roboto, Arial, sans-serif;
-  line-height: 1.3;
-  margin: 0;
-  text-align: center;
-}
 .FOOTER {
 	font-family: 'Italianno', cursive;
 	font-family: 'Mali', cursive;
-  background-color: #fff;
-  color: #3e4042;
   line-height: 1.3;
   margin: 0;
   text-align: center;
 }
 .img_mid {
-  background-color: #fff;
-  color: #3e4042;
   line-height: 1.3;
   margin: 0;
   text-align: center;
@@ -170,9 +156,6 @@ li
 	}
 	
 .MID {
-  background-color: #fff;
-  color: #3e4042;
-  font-family: Roboto, Arial, sans-serif;
   line-height: 1.3;
   margin: 0;
   text-align: center;
@@ -193,13 +176,6 @@ article img:not([class]) {
     height: auto;
 	}
 
-.img_mid {
-  background-color: #fff;
-  color: #3e4042;
-  line-height: 1.3;
-  margin: 0;
-  text-align: center;
-}
 
 .blog_border {
 	padding: 1.5rem;
