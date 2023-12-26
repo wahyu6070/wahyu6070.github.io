@@ -6,6 +6,7 @@ description: Stockrommod Asus Zenfone Max Pro M1
 lang: en
 categories: Android
 permalink: /:categories/:year/:month/:day/:title:output_ext
+ads: true
 ---
 
 This time I will share stockrom mod for Asus Zenfone Max Pro M1 codename x00t, stockrom mod was developed by myself 2 years ago.

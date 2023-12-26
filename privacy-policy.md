@@ -24,7 +24,4 @@ You can opt-out of Google Analytics tracking using the browser add-on officially
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us:
-
-- By email: `wahyu6070@gmail.com`
-- By phone: `+62-873-456-7560`
+If you have any questions about this Privacy Policy, please [contact us](/contact).

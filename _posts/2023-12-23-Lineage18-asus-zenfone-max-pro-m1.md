@@ -11,6 +11,7 @@ author : wahyu6070
 opengraph:
 toc    :
 excerpt:
+ads: true
 ---
 
 Lineage Os is an open source Android operating system based on AOSP developed by the Android community, which is now one of the most popular custom ROMs among the Android community.
