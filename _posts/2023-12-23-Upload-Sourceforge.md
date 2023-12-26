@@ -4,7 +4,7 @@ type   :
 title  : Upload File SourceForge Using SSH In Termux or Ubuntu
 date   : 2023-12-24
 slug   : sourceforge-upload
-categories: [tutorial]
+categories: [Tutorial]
 tags      : [sourceforge, ssh, sftp, sftp]
 keywords  : [sourceforge, ssh, sftp, sftp]
 author : wahyu6070
@@ -12,6 +12,7 @@ opengraph:
 toc    :
 excerpt:
 ---
+
 
 Sourceforge is a website that provides unlimited online storage for free, all projects in sourceforge are open source which can be downloaded for free by anyone.
 
