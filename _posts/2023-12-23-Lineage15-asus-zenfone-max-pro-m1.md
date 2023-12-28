@@ -1,9 +1,9 @@
 ---
 layout : post
 type   : 
-title  : Lineage Android 8.1 Oreo Asus Zenfone Max Pro M1 (X00T)
+title  : Lineage 15.1 Android 8.1 Oreo Asus Zenfone Max Pro M1 (X00T)
 date   : 2023-12-24
-slug   : lineage18-X00T
+slug   : lineage15-X00T
 categories: [Rom]
 tags      : [magisk, gapps, ksu, custom gapps, myproject]
 keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
