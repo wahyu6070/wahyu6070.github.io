@@ -23,7 +23,7 @@ So this time I will discuss Gapps (Google Apps) custom which is quite popular am
 
 litegapps is a dedicated gapps open source project developed by senior member xda-developer @wahyu6070, this project focuses on a minimal, efficient and complete gapps, capable of handling a wide range of user cases.  Litegapps has unique installation modes namely ``systemless`` and ``non systemless``, let's discuss more about these two modes:
 
-### Systemless
+#Systemless
 
 The installation mode that installs on an Android partition fakely (files are not installed natively on the partition) uses the **Magisk module** or **KSU module** installation system which can even make fake modifications to the read only partition.
 
