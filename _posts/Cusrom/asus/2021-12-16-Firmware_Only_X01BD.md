@@ -33,6 +33,6 @@ This firmware functions like the Linux kernel, namely connecting from hardware t
 
 Make sure you download it correctly and according to what your ROM requires, because if it is wrong there is a risk of being completely bricked/dead.
 
-[sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X01BD/)
+[sourceforge](https://www.pling.com/p/2118197/)
 
 
