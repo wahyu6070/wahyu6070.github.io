@@ -27,7 +27,7 @@ litegapps is a dedicated gapps open source project developed by senior member xd
 
 The installation mode that installs on an Android partition fakely (files are not installed natively on the partition) uses the **Magisk module** or **KSU module** installation system which can even make fake modifications to the read only partition.
 
-###  Non systemless
+### Non systemless
 
 namely the normal/old installation mode which installs files directly into the Android partition (files are installed natively), so to use this mode the Android partition must be able to read/write into the partition in order to modify or install Google Apps files.
 
