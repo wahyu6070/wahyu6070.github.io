@@ -44,4 +44,4 @@ This firmware is usually updated with stock ROM in one package, so smartphone ve
 
 This firmware is ported from stock ROM by developer Wahyu6070, make sure you download it correctly and according to the ROM you installed.
 
-[sourceforge](https://sourceforge.net/projects/wahyu6070-project-android/files/Firmware/X00T/)
+[pling](https://www.pling.com/p/2118175/)
