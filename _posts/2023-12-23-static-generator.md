@@ -41,7 +41,7 @@ Jekyll is a static site generator written using the <b>Ruby</b> programming lang
 
 Jekyll has the weakness of being slow to build, this will be felt when you have thousands of pages or more.  but jekyll has an easy to understand structure, this is suitable for those who are just starting to create static sites.
 
-### kelebihan jekyll 
+### Jekyll's advantages
 - Easy to understand
 - Simple
 - Supports themes
