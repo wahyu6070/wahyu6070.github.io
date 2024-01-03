@@ -2,11 +2,11 @@
 layout : post
 type   : 
 title  : Best Static Generator website in 2024
-date   : 2023-12-23
+date   : 2024-01-03
 slug   : generator-static
 categories: [static generator]
-tags      : [magisk, gapps, ksu, custom gapps, myproject]
-keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
+tags      : [jekyll, hugo, eleventy]
+keywords  : [static generator]
 author : wahyu6070
 opengraph:
 toc    :
@@ -37,9 +37,7 @@ With the speed offered by Hugo, this will be very useful when you have thousands
 
 ## Jekyll
 
-[Jekyll](https://jekyllrb.com/)
-
-is a static site generator written using the <b>Ruby</b> programming language, which is the most popular generator currently.  Jekyll is very friendly for blogging and the structure in it is easy to understand, this is suitable for those who are just learning to create static sites.
+[Jekyll](https://jekyllrb.com/) is a static site generator written using the <b>Ruby</b> programming language, which is the most popular generator currently.  Jekyll is very friendly for blogging and the structure in it is easy to understand, this is suitable for those who are just learning to create static sites.
 
 Jekyll has the weakness of being slow to build, this will be felt when you have thousands of pages or more.  but jekyll has an easy to understand structure, this is suitable for those who are just starting to create static sites.
 
