@@ -1,11 +1,4 @@
-// This script part is inspired by
-// https://nurofsun.github.io/membuat-fitur-pencarian-hugo/
-function search() {
-            var searchTerm = document.getElementById("search_site").value;
-            var url = "/blog/search.html?q="+ encodeURIComponent(searchTerm)
-            window.location.href = url;
-        }
-        
+
 document.addEventListener("DOMContentLoaded", function(event) { 
   // DOM stuff
   const searchBox     = document.getElementById("search_box");
