@@ -1,51 +1,14 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary rounded" aria-label="Twelfth navbar example">
-      <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions" style="width:320px;">
-        <div class="offcanvas-header">
-          <h5 class="offcanvas-title">Wahyu6070</h5>
-          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="d-flex flex-column flex-shrink-0 p-3" style="width:280px;">
-            
-            <ul class="nav nav-pills flex-column mb-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
-              </li>
-              <li>
-                <a class="nav-link" href="/about">About Us</a>
-              </li>
-              <li>
-                <a class="nav-link" href="/contact">Contact Us</a>
-              </li>
-              <li>
-                <a class="nav-link" href="/blog">Blog</a>
-              </li>
-              <li>
-                <a class="nav-link" href="https://www.paypal.me/wahyu6070">Paypal</a>
-              </li>
-              </li>
-              <li>
-                <a class="nav-link" href="/cookie-policy">Cookie Policy</a>
-              </li>
-              </li>
-              <li>
-                <a class="nav-link" href="/privacy-policy">Privacy Policy</a>
-              </li>
-              </li>
-              <li>
-                <a class="nav-link" href="/terms-of-service">Terms Of Service</a>
-              </li>
-            </ul>
-            
-          </div>
-        </div>
-      </div>
-      
-      
+
   <div class="container-fluid">
-    <a class="navbar-brand" data-bs-toggle="offcanvas" data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions" href="/index.html"> <div class="text-icon">Wahyu6070</div></a>
+    <a class="navbar-brand" href="/index.html"> <div class="text-icon">Wahyu6070</div></a>
+    <div class="search-container">
     
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <input type="text" id="search_site" class="search-input" placeholder="Search" name="q" aria-label="search">
+        <button onclick="search()" type="submit" class="search-button">Search</button>
+    	
+   </div>
+   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -91,7 +54,7 @@
   </div>
 </nav>
 
-
+      
 <!-- Dark mode by bootstrap -->
 <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
       <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
