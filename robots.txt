@@ -7,4 +7,5 @@ Disallow: /about.html
 Disallow: /disclaimer.html
 Disallow: /cookie-policy.html
 Disallow: /legal.html
+Disallow: /blog
 
