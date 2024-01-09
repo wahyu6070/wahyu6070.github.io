@@ -6,7 +6,6 @@ description: Firmware Ony For Asus Zenfone Max Pro M1
 lang: en
 categories: Android
 permalink: /:categories/:year/:month/:day/:title:output_ext
-ads: true
 ---
 
 
