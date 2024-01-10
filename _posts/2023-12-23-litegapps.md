@@ -2,7 +2,7 @@
 layout : post
 type   : 
 title  : LiteGapps Best Custom Gapps Android
-date   : 2023-12-23
+date   : 2026-12-23
 slug   : litegapps
 categories: [Gapps]
 tags      : [magisk, gapps, ksu, custom gapps, myproject]

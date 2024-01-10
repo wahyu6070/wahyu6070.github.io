@@ -2,7 +2,6 @@
 layout: post
 title:  "StockromMod Asus Zenfone Max Pro M2 (X01BD)"
 date:   2022-01-06
-description: Stockrommod Asus Zenfone Max Pro M2
 lang: en
 categories: Android
 permalink: /:categories/:year/:month/:day/:title:output_ext
@@ -29,13 +28,24 @@ In this ROM several features have been added and updated from stock Asus :
 - Overscloking cpu to 2.2 ghz
 - Added asus galery
 - Added google camera
+- Use apn to latest version
+- Added busybox by osmosis
+- Added 7za binary
+- Decrypt by vendor partition
+- Optimizing performance
+- Update security patch
+- Use stock pure kernel
+- Use latest firmware asus
+- Improving zram size
+- Added support all web version
+- Skipping setup wizard login
 
 ## How To Install
 
 - Reboot to twrp
 - Wipe /data /system /vendor /cache
 - Install stockrom mod
-- instal decrypt
+- Instal decrypt
 - Reboot system
 
 ## Conclusion
