@@ -8,9 +8,7 @@ categories: [Rom]
 tags      : [magisk, gapps, ksu, custom gapps, myproject]
 keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
 author : wahyu6070
-opengraph:
-toc    :
-excerpt:
+ads: true
 ---
 
 When we install the Magisk or Kernelsu module, we usually experience a bootloop when the module we install is not compatible with our device, and here I will share a module that you should try to overcome the bootloop problem caused by the module we installed.
@@ -50,3 +48,4 @@ So this module is an effective bootloop safeguard for our Android phones, but th
 This module is very useful for those of you who have installed many Magisk or KSU modules, to provide security if a bootloop occurs caused by the module.
 
 ## Get the module
+[Get File In Telegram](https://t.me/wahyu6070channel/802)

@@ -7,7 +7,7 @@ categories: Tools
 description: Jancox Tool Unpack/repack Rom Android Multi platform android,windows,linux
 tagline: jancox tool android
 permalink: /tools/jancox-tool
-ads: true
+ads: false
 ---
 
 Jancox Tool is a tool for unpacking and repacking Android ROMs developed by Wahyu6070, supporting multi-platform Android, Windows and Linux.

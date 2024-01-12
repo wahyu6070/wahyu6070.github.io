@@ -11,7 +11,7 @@ author : wahyu6070
 opengraph:
 toc    :
 excerpt:
-ads: true
+ads: false
 ---
 
 
