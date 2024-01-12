@@ -45,7 +45,7 @@ So this module is an effective bootloop safeguard for our Android phones, but th
 
 ## Conclusion
 
-This module is very useful for those of you who have installed many Magisk or KSU modules, to provide security if a bootloop occurs caused by the module.
+This module is very useful for those of you who have installed many Magisk or KSU modules, to provide security if a bootloop occurs caused by the module. This way, your device will be safe from bootloop problems when we install many modules on our device.
 
 ## Get the module
 [Get File In Telegram](https://t.me/wahyu6070channel/802)

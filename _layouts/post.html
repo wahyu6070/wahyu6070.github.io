@@ -23,13 +23,15 @@
 <article>
 {{ content }}
 </article>
-
+{% comment %}
 <hr style="text-align: none !important; padding: 0px !important;">
 	
 <h2 style="padding: 10px;">Recomended For You</h2>
 {%- for post in site.posts limit:5 -%}
 <p class="pfooter"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></p>
 {%- endfor -%}
+
+{% endcomment %}
 </main>
 
 
