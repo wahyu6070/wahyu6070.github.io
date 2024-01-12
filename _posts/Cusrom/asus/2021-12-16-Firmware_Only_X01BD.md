@@ -3,7 +3,6 @@ layout: post
 title:  "Firmware Only Asus Zenfone Max Pro M2 (X01BD)"
 date:   2021-12-16 17:32:07 +0100
 lang: en
-description: Firmware Ony For Asus Zenfone Max Pro M2
 categories: Android
 permalink: /:categories/:year/:month/:day/:title:output_ext
 ---
