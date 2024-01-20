@@ -8,9 +8,6 @@ categories: [Gapps]
 tags      : [magisk, gapps, ksu, custom gapps, myproject]
 keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
 author : wahyu6070
-opengraph:
-toc    :
-excerpt:
 ads: true
 ---
 
