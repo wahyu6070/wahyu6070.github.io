@@ -4,7 +4,7 @@ type   :
 title  : Bootloop Protector Magisk Or KSU Module
 date   : 2024-01-09
 slug   : bootloop-protector
-categories: [Rom]
+categories: [module]
 tags      : [magisk, gapps, ksu, custom gapps, myproject]
 keywords  : [magisk module, litegapps, lite gapps, Kernelsu]
 author : wahyu6070

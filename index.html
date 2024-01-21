@@ -15,6 +15,7 @@ This page contains notes written as documentation for myself or for you as visit
 </p>
 </div>
 
+{% comment %}
 <div class="container-fluid">
 <div class="row">
   	<div class="col">
@@ -34,11 +35,14 @@ This page contains notes written as documentation for myself or for you as visit
 
 </div>
 
+
 <hr>
 <div class="container">
 	<p class="notes"> This is my personal page, here I write blogs, projects, documentation and some other notes.
 	</p>
 </div>
+
+{% endcomment %}
 
 <div class="container py-4">
 
@@ -142,7 +146,7 @@ I started to be interested in an operating system, namely Android, there I start
 <p>TirexBox A feature-rich Magisk module for the Android user experience, adding several tweaks.</p>
 
 <h3>Nyenuk AI</h3>
-<p>Nyenuk AI uses *AI* as tweaking that runs in the background to manage OS performance by adjusting the operating system's needs.</p>
+<p>Nyenuk AI uses <b>AI</b> as tweaking that runs in the background to manage OS performance by adjusting the operating system's needs.</p>
 <h3>Magisk Post Fs</h3>
 <p>System Post-FS</strong> It will work after boot starting with application usage management so as to optimize memory usage.</p>
 <h3>D0lby 4tmos</h3>
@@ -163,19 +167,23 @@ I started to be interested in an operating system, namely Android, there I start
 <h3>Firmware Only</h3>
 <p>Firmware Only For X00T/X01BD : I also ported the firmware only from stock Asus and converted it into a flashable zip that can be installed in recovery.</p>
 
-    {% assign posts = site.posts %}
-   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<h2> Best Magisk Module 2024</h2>
+
+
+
+{% assign posts = site.posts %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
    
-   <div class="container py-4">
-        {%- for post in posts -%}
+<div class="container py-4">
+{%- for post in posts -%}
         <div class="h-100 p-5 bg-light border rounded-3">
           <h2> {{ post.title | escape }}</h2>
           <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
           <a href="{{ post.url | relative_url }}"><button class="btn btn-outline-secondary" type="button">Read More</button></a>
         </div>
-      {%- endfor -%}
-   </div>   
+{%- endfor -%}
+</div>   
    
    
-</div>
+</div> <!-- div container -->
 
