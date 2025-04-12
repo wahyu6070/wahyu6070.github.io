@@ -11,11 +11,6 @@
           <div class="mb-1 text-body-secondary"><time datetime="{{ post.date | date_to_xmlschema }}"> {{ post.date | date: "%b %-d, %Y" }}</time></div>
           
           <p class="card-text mb-auto">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
-          <a href="{{ post.url | relative_url }}
-          " class="icon-link gap-1 icon-link-hover stretched-link">
-            Continue reading
-           
-          </a>
         </div>
         
       </div>
