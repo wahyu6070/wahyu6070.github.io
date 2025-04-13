@@ -7,9 +7,7 @@ categories: bisnis
 description: Cara analisa Bisnis
 ---
 
-AnjrahWeb.com – Timothy Ronald bikin video baru dengan judul Cara Analisa Bisnis Dalam 30 Menit.
-
-Saya sudah tonton dan isinya merupakan cara analisa bisnis menurut Timothy Ronald yang layak di invest.
+article ini di diambil/ditranskrip dari video [Timoty Ronal](https://youtu.be/vtpjk1AjsH0) yang kebetulan cocok dengan pemikiran saya dan apa yang saya lakukan pada usia 17-24 (saat menulis article ini), saya melakukan dan pemikiran saya seperti yang apa di jelaskan di video timoty ronald, tetapi yang berbeda saya belum mengetahui istilah istilah bahasa bisnisnya karena saya belajar dari pemikiran/logika saya sendiri, saya membuat ini untuk dibaca lagi di masa depan jika saya lupa apa yang lupa saya lakukan di usia muda. 
 
 Salah satu sisi yang saya suka, ini aslinya juga berisi banyak hal yang penting untuk orang seperti saya yang ngejalanin bisnis (belum dilevel investor).
 
