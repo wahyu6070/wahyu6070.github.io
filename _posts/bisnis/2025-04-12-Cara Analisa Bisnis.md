@@ -20,7 +20,7 @@ So, aku juga lakukan. Karena menarik juga materi itu. Terus aku tulis di web ini
 Transkrip Cara Analisa Bisnis Dalam 30 Menit
 Pertama, yang saya lakukan saya mentranskrip videonya, lalu inilah transkripnya:
 
-Pembuka: Cara Gue Analisa Bisnis
+## Pembuka: Cara Gue Analisa Bisnis
 Oke, kali ini ya gue akan ngajarin lo semua sesuatu yang sedikit berbeda.
 Gimana caranya gue pribadi tuh analisa bisnis, baik yang mau gue bikin atau yang mau gue investasikan.
 
