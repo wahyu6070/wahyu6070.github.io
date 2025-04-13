@@ -18,78 +18,102 @@ Di video Cara Analisa Bisnis Dalam 30 Menit tersebut, Timothy bilang untuk mengu
 So, aku juga lakukan. Karena menarik juga materi itu. Terus aku tulis di web ini, biar aku bisa baca berulang ulang. Sambil aku coba cermati beberapa point – pointnya.
 
 Transkrip Cara Analisa Bisnis Dalam 30 Menit
+
 Pertama, yang saya lakukan saya mentranskrip videonya, lalu inilah transkripnya:
 
 ## Pembuka: Cara Gue Analisa Bisnis
 Oke, kali ini ya gue akan ngajarin lo semua sesuatu yang sedikit berbeda.
+
 Gimana caranya gue pribadi tuh analisa bisnis, baik yang mau gue bikin atau yang mau gue investasikan.
 
 Jadi disini lo akan gue ajarin gimana caranya nganalisa bisnis dari nol sampai lo beneran paham.
+
 Dan menurut gue video ini akan berharga ya untuk kalian mau seorang investor bisnis ya.
+
 Mau kalian adalah seorang pengusaha, mau lo level nol, mau lo level karyon 200 pun.
+
 Gue yakin lo mau karyon 1000. Ada hal yang lo bisa petik dari video ini dan ada hal yang lo bisa pelajari dari video ini.
 
 Kali ini video gue akan bikin lebih detail dan lebih teknis dari video-video yang lain.
+
 Karena gue pengen transfer ilmu gue ke kalian semua.
+
 Bagaimana caranya flow pemikiran gue dalam gue melihat bisnis.
 
 Ini soalnya ada yang tanya di request-an kemarin.
+
 Ini semuanya akan sistematis ya.
+
 Dan ini adalah cara berpikir gue selama 10 tahun terakhir di dunia bisnis.
 
 Di video ini nanti akan banyak istilah-istilah yang finansial.
+
 Jadi kalau kalian nggak ngerti gue ngomongin apa, jangan males ya.
+
 Jangan komen, tapi kalian cari di Google atau kalian cari di AI, silahkan sana.
 
-Struktur Video Ini: 3 Bagian Besar
+## Struktur Video Ini: 3 Bagian Besar
 Gue akan bagi video ini jadi 3 segmen:
 
-Fundamental dari bisnis
-
-Pattern keberhasilan
-
-Jurang bisnis
+- Fundamental dari bisnis
+- Pattern keberhasilan
+- Jurang bisnis
 
 Jadi kalian tidak perlu ikut kelas manapun.
+
 Ini kalian nggak perlu ikut MBA juga.
+
 Kalian cukup nonton satu video ini. Gue yakin lo bisa analisasi bisnis sampai sempurna.
 
-FUNDAMENTAL 1: CAPITAL ALLOCATION
+## FUNDAMENTAL 1: CAPITAL ALLOCATION
 Kita akan mulai dengan building block yang pertama yaitu fundamental dari sebuah bisnis.
+
 Lo mau belajar main golf, lo mau belajar main basket, semuanya sama.
+
 Kita mulai dengan fundamental, kita mulai dari fundamental.
 
 Sama seperti bisnis.
+
 Kalau lo nggak mulai dengan fundamental yang kokoh, bisnis lo bakal berantakan.
+
 Dan ke depannya lo investasi bisnis. Lo nggak ngerti fundamental bisnis itu apa, lo investasinya masih berantakan.
 
-Capital Allocation Itu Apa?
+### Capital Allocation Itu Apa?
 Fundamental dari bisnis yang pertama itu adalah capital allocation.
 Sebuah bisnis itu adalah sebuah mesin. Mesin yang bisa menghasilkan uang.
 
 Jadi hal terpenting, yang pertama fundamental dari seorang pebisnis atau bisnis yang kalian mau investasikan
+
 Adalah bagaimana caranya mereka mengalokasi capital.
+
 Gimana cara mereka mengalokasi uang yang mereka punya.
 
 Dalam mengalokasi capital, hanya ada empat cara.
+
 Kalau kalian punya bisnis atau kalian mau berinvestasi di bisnis,
+
 Dalam bisnis itu mengalokasi yang namanya capital.
 
-Empat Cara Capital Allocation
-Yang pertama adalah capital expenditure (Capex).
+### Empat Cara Capital Allocation
+- Yang pertama adalah capital expenditure (Capex).
 Dia investasi untuk capex bisnisnya. Nanti ini semua akan gue jelasin satu-satu.
-Yang kedua itu adalah R&D dan advertising.
-Yang ketiga adalah merger and acquisition (M&A).
-Yang keempat adalah antara share buyback atau nggak dividend.
+- Yang kedua itu adalah R&D dan advertising.
+- Yang ketiga adalah merger and acquisition (M&A).
+- Yang keempat adalah antara share buyback atau nggak dividend.
 
-Capital Expenditure (Capex)
+### Capital Expenditure (Capex)
 Pertama adalah capital expenditure. Ini paling sederhana.
+
 Lo bisnis jualan baju, lo generate duit.
+
 Misalnya contoh lo adalah Zara atau H&M. Lo jualan baju, lo dapet duit.
 
 Dari duit itu lo pake untuk apa? Lo pake untuk buka outlet yang baru untuk mendapatkan omset yang lebih banyak.
+
 Ini sama seperti restoran, Hai Tilao.
+
 Hai Tilao ketika dia jualan restoran, dapet duit, dia lakukan apa? Dia ekspansi outlet ke Indonesia.
+
 Dia ekspansi outlet ke Malaysia. Dia ekspansi outlet lagi di Singapura.
 
 Atau lo restoran besar.
@@ -100,7 +124,7 @@ Contoh ya, H&M punya sekitar 4.300 outlet di seluruh dunia.
 Dia hampir buka 1 outlet setiap hari sejak 2020.
 Ini adalah contoh yang gue sebut dengan growth capex.
 
-Contoh Capex: Holy Wings
+### Contoh Capex: Holy Wings
 Jadi uang yang didapatkan dia investasi untuk mendapatkan outlet untuk meningkatin omsetnya lagi.
 Sama seperti Holy Wings.
 Ketika dapet uang dari outlet misalnya 6 bulan atau 12 bulan balik modal, uangnya itu dipake lagi.
@@ -118,7 +142,7 @@ Jadi gue dulu beli price to sales 2,5, sekarang itu sekitar 1-an.
 Jadi secara bisnis itu udah lebih murah justru sekarang. Karena omsetnya itu double.
 Kenapa bisa double? Karena uang yang didapatkan, itu diinvestasikan kembali menjadi outlet-outlet terus.
 
-R&D dan Advertising
+### R&D dan Advertising
 Yang kedua itu adalah R&D dan juga advertising.
 Contoh perusahaan yang sangat berat di R&D adalah Apple.
 Kita juga bisa lihat lagi perusahaan yang lagi rising star, yaitu NVIDIA.
@@ -133,7 +157,7 @@ Sama seperti Apple.
 Kalau dia bisa bikin iPhone itu lebih tipis lagi, lebih canggih lagi, desain lebih bagus lagi,
 Uangnya itu dihabiskan untuk yang namanya R&D.
 
-Advertising dan Brand Building
+### Advertising dan Brand Building
 Nah advertising itu juga jadi tempat untuk alokasi capital yang efisien sebenarnya.
 Contohnya seperti MACD, seperti Coca-Cola.
 Mereka itu spending besar sekali.
@@ -146,7 +170,7 @@ Kalau lo lihat pebisnis yang level ecek-ecek,
 Itu mereka selalu fokusnya misalnya programmatic ads.
 Contoh iklan yang misalnya ada di Facebook, iklan di Instagram, iklan yang kalian ada di YouTube.
 
-Perbedaan Brand Besar dan Kecil
+### Perbedaan Brand Besar dan Kecil
 Itu mereka lakukan untuk mendapatkan result instant.
 Jadi mereka misalnya bayar Facebook sejuta, mereka ekspektasi dapat customer dua juta bayar mereka.
 Mereka untung sejuta.
@@ -160,7 +184,7 @@ Orang akan mau minumnya Coca-Cola terus,
 Walaupun harganya agak sedikit naik misalnya contoh dari Pepsi,
 Tapi orang akan pilih Coca-Cola karena mereka ingat kalau mereka bahagia itu Coca-Cola.
 
-Contoh Nyata Brand Building
+### Contoh Nyata Brand Building
 Makanya kalau kita lihat bahkan exchange crypto yang besar,
 Itu mereka banyak sponsor misalnya di F1.
 Contoh misalnya exchange crypto juga ganti Staples Center diganti jadi crypto.com arena.
@@ -181,7 +205,7 @@ Kalian nggak ke kiri ke kanan. Kalian tahu oke, saya mau ke tempatnya Holy Wings
 Kalau untuk yang marketnya mungkin lebih menengah ke bawah, kalian masuk ke Headline Market.
 Kalau marketnya up, kalian ke H Club di HCBD.
 
-Merger & Acquisition (M&A)
+### Merger & Acquisition (M&A)
 Kalau kita lihat tadi growth capex yang pertama,
 Kalau kita berinvestasi untuk capex seperti pembukaan outlet, itu top line-nya jelas.
 Jadi revenue-nya itu jelas.
@@ -202,7 +226,7 @@ Selama 15 tahun dia mencoba, itu tidak menghasilkan apa-apa.
 Makanya sekarang semua cewek mimpinya itu adalah memiliki hair dryer yang Dyson.
 Air Purifier juga kalau kalian lihat di kantor-kantor yang bagus, itu adalah Dyson semua.
 
-Cost R&D dan Advertising Gampang Dipotong
+### Cost R&D dan Advertising Gampang Dipotong
 Dan uniknya berbeda dengan growth capex,
 Kalau misalnya kita lihat R&D dan advertising ini,
 Ini adalah suatu cost yang gampang sekali dipotong ketika perusahaan itu mengalami kesulitan finansial.
@@ -215,7 +239,7 @@ Ketika bisnis ini mengalami misalnya krisis, krisis keuangan,
 Paling gampang ya udah potong aja advertising.
 Secara fundamental tidak akan terlalu berubah bisnisnya.
 
-Merger & Acquisition (M&A) = Capital Destructor?
+### Merger & Acquisition (M&A) = Capital Destructor?
 Capital allocation yang ketiga, kita udah bahas tadi growth capex,
 Yang kedua tadi kita udah bahas juga bisa R&D, bisa seperti Dyson ini, bisa seperti NVIDIA,
 Bisa seperti Coca-Cola di advertising.
@@ -227,7 +251,7 @@ Jadi kalau gue lihat perusahaan yang suka M&A ini, gue biasanya hindari.
 Karena M&A itu kebanyakan jadi capital destructor,
 Ngancurin capital-nya dan ngancurin shareholder value.
 
-M&A yang Sukses Itu Langka
+### M&A yang Sukses Itu Langka
 Contoh yang berhasil itu Disney akuisisi Pixar di tahun 2006.
 Jadi M&A itu apa? Ketika ini ada perusahaan besar,
 Ini ada perusahaan besar lagi, mereka bisa merger.
@@ -240,7 +264,7 @@ Kebanyakan yang gagal melakukan M&A ini. Tidak banyak yang berhasil.
 
 Bisnis yang besar yang bisa return shareholder value itu tidak banyak yang melakukan M&A secara konsisten dan berhasil terus.
 
-Contoh M&A Gagal
+### Contoh M&A Gagal
 Contoh, banyak yang biasanya banyak gagalnya dulu baru justru berhasil.
 Microsoft itu tahun 2013 dia akuisisi Nokia dan itu ya kita tahu gagal total.
 
@@ -251,21 +275,21 @@ Dan ini 2013 ketika Microsoft itu acquire Nokia,
 Itu menghancurkan banyak sekali shareholder value,
 Dibanding dia melakukan yang keempat nanti yang gue bahas capital allocation ini.
 
-Gue Prefer Apa?
+### Gue Prefer Apa?
 Jadi kalau lo tanya, lo prefer perusahaan yang seperti apa?
 Yang fokus di growth capex, R&D advertising, atau justru yang suka M&A?
 
 Gue akan jawab, gue suka perusahaan yang udah pasti di growth capex-nya.
 Misalnya perusahaan seperti IC6.
 
-FUNDAMENTAL 2: RETURN ON CAPITAL
+## FUNDAMENTAL 2: RETURN ON CAPITAL
 Fundamental yang kedua dalam saya bisa melihat sebuah bisnis,
 Dan saya menganggasa bisnis saya sendiri, yaitu return on capital.
 
 Ini adalah ukuran seberapa bagus perusahaan itu menggunakan capital yang dimilikinya
 Untuk menghasilkan keuntungan lebih lagi.
 
-Ukur Return: Asset Turns & Profit Margin
+### Ukur Return: Asset Turns & Profit Margin
 Sederhananya itu, dalam melihat profitability,
 Return on capital ini ada dua yang saya paling suka untuk ukur.
 
@@ -274,7 +298,7 @@ Sebenarnya ada banyak cara, tapi ini yang saya paling suka. Ada dua cara.
 Yang pertama adalah asset turns.
 Ini mengukur intensitas asetnya suatu bisnis.
 
-Asset Turns: Aset Berat vs Aset Ringan
+### Asset Turns: Aset Berat vs Aset Ringan
 Maksudnya apa? Bisnis itu yang makin berat asetnya,
 Itu akan diukur return on capital invested-nya berapa.
 
@@ -284,7 +308,7 @@ Itu akan jadi mahal. Itu bukanlah bisnis yang seksi.
 Bisnis yang paling seksi, kalau bisa tanahnya lo kerja sama,
 Lo tidak memiliki tanahnya. Lo cuma bangun doang, terus lo bisa mulai jualan.
 
-Asset Light itu Seksi
+### Asset Light itu Seksi
 Ini disebut dengan bisnis yang asset light.
 
 Contohnya seperti Domino’s Pizza.
@@ -298,7 +322,7 @@ Tapi perusahaan seperti Uber, itu asset light. Dia tidak punya mobil sama sekali
 
 Orang yang pakai mobilnya cuma melalui aplikasi.
 
-Contoh Lain Bisnis Asset Light
+### Contoh Lain Bisnis Asset Light
 Bisnis yang tidak perlu capital lebih lagi untuk misalnya membuka cabang atau mendapatkan top line,
 Ini sangat seksi.
 
@@ -316,7 +340,7 @@ Sistemnya itu sama persis. Filmnya sama persis.
 Jadi tidak ada marginal cost of replication-nya.
 Nah ini adalah bisnis asset light yang seksi banget.
 
-Hotel-Hotel Besar Juga Asset Light
+### Hotel-Hotel Besar Juga Asset Light
 Contohnya lagi seperti Hilton Hotel.
 Kalau kalian lihat banyak hotel-hotel, itu bukan mereka yang bangun gedungnya.
 Mereka cuma manajemen.
@@ -326,14 +350,14 @@ Nah ini bisnis yang asset light ini bisa di-valuasi dengan price to earning yang
 Contoh lagi, Holy Wings pun sama.
 Kita bisa kerja sama sama pemilik tanah untuk bagi hasil akhirnya.
 
-Ukuran Kedua: Profit Margin
+### Ukuran Kedua: Profit Margin
 Jadi kalau kita mau lihat return on capital,
 Itu kita lihat asset turn-nya, ini bisnis yang asset light dulu atau asset heavy.
 
 Yang kedua adalah profit margin.
 Berapa dari omset top line yang ujung-ujungnya itu bisa menjadi laba bersih kita.
 
-Contoh Profit Margin Tinggi
+### Contoh Profit Margin Tinggi
 Ini penting sekali.
 
 Contoh, Bloomberg itu adalah perusahaan dengan margin yang tinggi sekali.
@@ -345,7 +369,7 @@ Nah ini bisnis dengan profit margin yang tinggi sekali.
 Microsoft juga tidak butuh marginal cost of replication untuk jual produknya.
 Marginnya tinggi sekali, seperti produk Office-nya, Azure-nya.
 
-FUNDAMENTAL 3: SUMBER GROWTH BISNIS
+## FUNDAMENTAL 3: SUMBER GROWTH BISNIS
 Fondasi ketiga dari sebuah bisnis, yaitu sumber growth-nya dari mana.
 Sumber pertumbuhan bisnis-nya dari mana.
 
@@ -353,7 +377,7 @@ Kita tadi udah lihat gimana caranya pakai duitnya,
 Gimana cara ngukur return on capital-nya,
 Sekarang kita lihat sumber bertumbuhnya itu dari mana.
 
-Growth Pertama: Ekspansi Geografis
+### Growth Pertama: Ekspansi Geografis
 Growth yang paling gampang kita lihat kalau bisnis-bisnis yang besar,
 Adalah ekspansi secara geografis.
 
@@ -368,7 +392,7 @@ Dia ekspansi bahkan ke Indonesia dan bikin TBK juga di sini.
 Coca-Cola, lo mau di McD sini atau di Singapura,
 Lo bisa minum Coca-Cola.
 
-Growth Holy Wings: Luar Negeri
+### Growth Holy Wings: Luar Negeri
 Ketika Holy Wings sudah buka banyak outlet di Indonesia,
 Selanjutnya untuk menghasilkan lebih banyak uang, untuk menghasilkan growth bisnis-nya,
 Pertumbuhan bisnis adalah ekspansi ke luar negeri.
@@ -382,7 +406,7 @@ Ke Malaysia sekarang, ke Singapura sekarang.
 Pakai knowledge yang sudah dipunyai di Indonesia,
 Dan cari partner-partner lokal di setiap negara.
 
-Growth Kedua: Pricing x Volume
+### Growth Kedua: Pricing x Volume
 Sumber growth yang kedua.
 Bisnis itu adalah matematika sederhana.
 Yaitu pricing dikali volume.
@@ -390,7 +414,7 @@ Harga dikali volume.
 
 Bisnis yang terbaik itu adalah bisnis yang harganya tinggi, volumenya tinggi juga.
 
-Pricing Power Itu Segalanya
+### Pricing Power Itu Segalanya
 Kita contoh tadi kan kita menghitung Bloomberg 500 juta per tahun dikali 325 ribu.
 Bisnis yang punya pricing power terkuat itu justru akan selalu menang.
 
@@ -400,7 +424,7 @@ Gue lebih pilih bisnis yang pricing-nya lebih tinggi dan volume lebih rendah,
 Dibanding cuma yang volume tinggi dan pricing rendah.
 Ketika lo naikin sedikit, orang sudah tidak mau beli lagi produknya.
 
-Contoh Brand Pricing Tinggi
+### Contoh Brand Pricing Tinggi
 Kita contoh misalnya produk-produk seperti LV.
 LV itu tasnya kalau lo mau naikin 2 juta, orang juga tidak segitu pedulinya.
 Dia bisa punya yang namanya pricing power.
@@ -410,7 +434,7 @@ Dia tidak perlu jual volume yang besar sekali.
 Karena dia jual di price pun yang very very high,
 Dia jual jam itu harganya miliaran, dia tidak perlu jualan ke segitu banyak orang.
 
-Nasihat Mentor: Bikin Hotel Bintang 5
+### Nasihat Mentor: Bikin Hotel Bintang 5
 Mentor bisnis gue dulu pernah bilang:
 “Lebih baik lo selalu bikin hotel bintang 5 dibanding hotel bintang 3.”
 Karena itu ribetnya sama.
@@ -1519,7 +1543,7 @@ Jangan doyan utang kalau gak tahu cara muternya
 7. Sadari Jurang-Jurang yang Bisa Bunuh Bisnis Lo
 Sebagai pengusaha, lo harus jago prediksi kebangkrutan.
 
-Waspadai:
+## Waspadai:
 
 Bisnis stagnan = bisnis sekarat. Harus selalu tumbuh.
 
@@ -1532,13 +1556,17 @@ Disruption teknologi yang bikin produk lo obsolete
 Shifting selera pasar (kayak warung rokok yang gak jual vape, atau restoran gak bisa take away)
 
 ➡️ Lo bukan cuma bikin bisnis buat 1–2 tahun.
+
 ➡️ Lo harus nyiapin bisnis buat 5–10 tahun ke depan.
 
-Penutup
+## Penutup
 Intinya gini:
+
 Kalau lo pengusaha, lo harus mikir kayak investor.
+
 Biar bisnis lo gak cuma rame doang, tapi juga tahan banting, scalable, dan menguntungkan dalam jangka panjang.
 
 Mau ada investor atau enggak, lo tetap butuh struktur yang solid.
+
 Dan ilmu kayak yang diajarin Timothy ini, justru harus dikuasai dulu sama pengusahanya sendiri.
 

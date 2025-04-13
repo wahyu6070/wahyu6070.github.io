@@ -1,6 +1,3 @@
-@import 
-"dark",
-"style",
-"blog"
-
-;
+@use "dark";
+@use "style";
+@use "blog";

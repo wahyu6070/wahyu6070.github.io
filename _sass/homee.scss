@@ -1,6 +1,3 @@
-@import 
-"dark",
-"style",
-"homepage"
-
-;
+@use "dark"; 
+@use "style";
+@use "homepage";
