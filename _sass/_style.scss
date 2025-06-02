@@ -23,6 +23,13 @@ a:active {
 
 
 
+.MID-FOOTER {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}
+
 .MID-FOOTER a {
     text-decoration: none;
 }
@@ -37,5 +44,3 @@ a:active {
 .ICON-FOOTER:hover {
     transform: scale(1.2);
 }
-
-	
