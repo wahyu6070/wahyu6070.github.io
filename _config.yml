@@ -3,31 +3,12 @@ baseurl: "/"
 url: "https://wahyu6070.github.io"
 permalink: /:categories/:year/:month/:title
 
-
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
   
-    
 # Pagination 
 paginate: 10
 paginate_path: "/blog/blog-:num"
     
-# Other
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
-
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
