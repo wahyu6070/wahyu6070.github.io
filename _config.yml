@@ -1,5 +1,5 @@
 title : wahyu6070 - Documentation
-baseurl: "/"
+baseurl: ""
 url: "https://wahyu6070.github.io"
 permalink: /:categories/:year/:month/:title
 
