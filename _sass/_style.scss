@@ -23,10 +23,19 @@ a:active {
 
 
 
-.ICON {
-	width : 6%;
-	height : auto;
-	margin-left : 0.5rem;
-	}
-	
+.MID-FOOTER a {
+    text-decoration: none;
+}
+
+.ICON-FOOTER {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s;
+    padding: 3px;
+}
+
+.ICON-FOOTER:hover {
+    transform: scale(1.2);
+}
+
 	
