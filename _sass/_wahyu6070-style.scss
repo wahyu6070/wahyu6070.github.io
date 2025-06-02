@@ -7,14 +7,7 @@ body {
   margin: 0;
   text-align: left;
 }
-.MID {
-  background-color: #fff;
-  color: #3e4042;
-  font-family: Roboto, Arial, sans-serif;
-  line-height: 1.3;
-  margin: 0;
-  text-align: center;
-}
+
 pre,
 code {
   font-family: Menlo, monospace;
@@ -269,3 +262,4 @@ article img:not([class]) {
     page-break-inside: avoid;
   }
 }
+
