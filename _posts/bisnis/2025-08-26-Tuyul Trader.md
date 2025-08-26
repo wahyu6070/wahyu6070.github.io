@@ -25,3 +25,8 @@ membebaskan dari perbudakan jaman modern dan mencapai kebebasan finansial
 ## Cara trading
 [Cara Trading Features demo](https://youtu.be/P90qOLZCfiE)
 
+## Social Media 
+[Whatsapp](https://chat.whatsapp.com/H21TZqroktSGJth1JgxtUS)
+
+[Telegram](https://t.me/tuyul_trader)
+
