@@ -13,11 +13,9 @@
 {% include navigation.html %}
 {% include ads_body.html %}
 {% include svg.html %}
-<main class="container">
-<header>
-<h1>{{ page.title }}</h1>
+<main class="container py-4">
+<h1 class="text-center">{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
-</header>
 
 <article>
 {{ content }}

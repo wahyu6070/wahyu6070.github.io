@@ -44,3 +44,51 @@ a:active {
 .ICON-FOOTER:hover {
     transform: scale(1.2);
 }
+
+h2 {
+	text-align : center;
+	
+	}
+h3 {
+	font-size: 1.1rem;
+	}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+	text-decoration: none;
+	color: #007d9c;
+	}
+	/* Menghilangkan garis bawah pada link kartu */
+.project-link {
+  text-decoration: none;
+}
+
+/* Kartu proyek versi ringkas */
+.project-card-compact {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #e9ecef;
+}
+
+/* Efek hover pada kartu */
+.project-link:hover .project-card-compact {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Mengatur ukuran logo proyek */
+.project-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain; /* 'contain' lebih baik untuk logo agar tidak terpotong */
+  border-radius: 0.5rem; /* Membuat sudut logo sedikit melengkung */
+}
+
+.project-card-compact .card-title {
+  font-size: 1.1rem; /* Sedikit mengecilkan judul agar pas */
+  color: #212529;
+}
+.project-card-compact .card-subtitle {
+  font-size: 0.9rem;
+}
